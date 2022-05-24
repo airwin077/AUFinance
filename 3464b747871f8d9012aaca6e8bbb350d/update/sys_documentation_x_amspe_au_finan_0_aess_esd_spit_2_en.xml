@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="esd_spit_2" label="ESD Spit 2" language="en" table="x_amspe_au_finan_0_aess">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>esd_spit_2</element>
+            <help/>
+            <hint/>
+            <label>ESD Spit 2</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <plural>ESD Spit 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-17 14:05:34</sys_created_on>
+            <sys_id>3bbd1b8187a305543e7987fc8bbb354a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ESD Spit 2</sys_name>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_documentation_x_amspe_au_finan_0_aess_esd_spit_2_en</sys_update_name>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-17 14:05:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

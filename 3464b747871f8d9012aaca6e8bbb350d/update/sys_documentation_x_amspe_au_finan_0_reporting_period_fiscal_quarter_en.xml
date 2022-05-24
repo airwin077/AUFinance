@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="fiscal_quarter" label="Fiscal Quarter" language="en" table="x_amspe_au_finan_0_reporting_period">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fiscal_quarter</element>
+            <help/>
+            <hint/>
+            <label>Fiscal Quarter</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_reporting_period</name>
+            <plural>Fiscal Quarters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-17 15:59:35</sys_created_on>
+            <sys_id>f1d7f341872705543e7987fc8bbb35d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Fiscal Quarter</sys_name>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_documentation_x_amspe_au_finan_0_reporting_period_fiscal_quarter_en</sys_update_name>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-17 15:59:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

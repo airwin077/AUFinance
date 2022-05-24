@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sourcing_opportunity_id" label="Sourcing Opportunity ID" language="en" table="x_amspe_au_finan_0_aess">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sourcing_opportunity_id</element>
+            <help/>
+            <hint>RO-000</hint>
+            <label>Sourcing Opportunity ID</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <plural>Sourcing Opportunity IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-17 14:08:49</sys_created_on>
+            <sys_id>577edbc187a305543e7987fc8bbb35ab</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Sourcing Opportunity ID</sys_name>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_documentation_x_amspe_au_finan_0_aess_sourcing_opportunity_id_en</sys_update_name>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-17 14:47:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

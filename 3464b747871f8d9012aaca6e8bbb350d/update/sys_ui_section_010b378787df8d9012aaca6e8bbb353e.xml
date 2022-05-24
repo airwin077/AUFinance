@@ -3,14 +3,56 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>nagaraja.hosamani@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-11 11:05:37</sys_created_on>
-            <sys_id>510b378787df8d9012aaca6e8bbb3587</sys_id>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-20 15:32:26</sys_created_on>
+            <sys_id>116e870a8727c5943e7987fc8bbb3586</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">010b378787df8d9012aaca6e8bbb353e</sys_ui_section>
-            <sys_updated_by>nagaraja.hosamani@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-11 11:05:37</sys_updated_on>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-20 15:32:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>client_name</element>
+            <position>1</position>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-20 15:32:26</sys_created_on>
+            <sys_id>1d6e870a8727c5943e7987fc8bbb3586</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">010b378787df8d9012aaca6e8bbb353e</sys_ui_section>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-20 15:32:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>client_name.master_client_name</element>
+            <position>2</position>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-20 15:32:26</sys_created_on>
+            <sys_id>116e870a8727c5943e7987fc8bbb3587</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">010b378787df8d9012aaca6e8bbb353e</sys_ui_section>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-20 15:32:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>client_name.mc_primary_industry</element>
+            <position>3</position>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-20 15:32:26</sys_created_on>
+            <sys_id>156e870a8727c5943e7987fc8bbb3587</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">010b378787df8d9012aaca6e8bbb353e</sys_ui_section>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-20 15:32:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
