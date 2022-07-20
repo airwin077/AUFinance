@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="AESS Request Form">45ce6cf387281d9012aaca6e8bbb35a6</catalog_item>
+        <catalog_variable>IO:13a63a49877c15d012aaca6e8bbb35a7</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>50</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+        <sys_created_on>2022-07-19 15:21:36</sys_created_on>
+        <sys_id>273bcca98730d5d012aaca6e8bbb35f2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>esd_2</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_273bcca98730d5d012aaca6e8bbb35f2</sys_update_name>
+        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-07-20 10:35:30</sys_updated_on>
+        <table/>
+        <ui_policy display_value="ESD 2 mandate only when Add ESD is true">000bc8a98730d5d012aaca6e8bbb3570</ui_policy>
+        <variable>esd_2</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
