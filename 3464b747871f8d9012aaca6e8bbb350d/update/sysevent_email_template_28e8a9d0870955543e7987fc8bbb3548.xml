@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_amspe_au_finan_0_tetris</collection>
+        <email_layout display_value="E&amp;V Layout v6">e310031cdb8ee85442d8cde405961931</email_layout>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>AU Finance (Tetris) - Record assigned</name>
+        <sms_alternate/>
+        <subject/>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+        <sys_created_on>2022-07-28 11:14:28</sys_created_on>
+        <sys_id>28e8a9d0870955543e7987fc8bbb3548</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>AU Finance (Tetris) - Record assigned</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sysevent_email_template_28e8a9d0870955543e7987fc8bbb3548</sys_update_name>
+        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-07-29 06:36:01</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
