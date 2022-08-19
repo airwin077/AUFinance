@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_amspe_au_finan_0_status_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_amspe_au_finan_0_status_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>vishnupriya.chintha@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-12 11:12:47</sys_created_on>
+            <sys_id>f336412b87d309d03e7987fc8bbb350e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_choice_x_amspe_au_finan_0_status_request_status</sys_update_name>
+            <sys_updated_by>vishnupriya.chintha@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-12 11:12:47</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_status_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>vishnupriya.chintha@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-12 11:12:47</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>81168de787d309d03e7987fc8bbb3514</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vishnupriya.chintha@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-12 11:12:47</sys_updated_on>
+            <value>Open</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Processed</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_status_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>vishnupriya.chintha@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-12 11:13:08</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>9e260d2b87d309d03e7987fc8bbb35b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vishnupriya.chintha@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-12 11:13:08</sys_updated_on>
+            <value>Processed</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

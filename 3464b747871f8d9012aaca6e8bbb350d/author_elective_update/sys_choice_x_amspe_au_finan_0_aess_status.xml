@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_amspe_au_finan_0_aess" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_amspe_au_finan_0_aess</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-17 12:23:05</sys_created_on>
+            <sys_id>66468b09872305543e7987fc8bbb3573</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_choice_x_amspe_au_finan_0_aess_status</sys_update_name>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-05-17 12:23:05</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-17 12:23:05</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>4026c349872305543e7987fc8bbb35a1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-07-26 14:45:16</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Submitted</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2022-05-17 12:25:06</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>4d768b49872305543e7987fc8bbb3506</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-07-26 14:45:45</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In Review</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+            <sys_created_on>2022-07-26 14:46:03</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>84f54c7787b8911412aaca6e8bbb35e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-07-26 14:46:03</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+            <sys_created_on>2022-07-26 14:46:15</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>4c46803787b8911412aaca6e8bbb3572</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-07-26 14:46:15</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <sequence>500</sequence>
+            <synonyms/>
+            <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+            <sys_created_on>2022-07-26 14:46:28</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>b3464c7787b8911412aaca6e8bbb3596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-07-26 14:46:28</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On Hold</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <sequence>600</sequence>
+            <synonyms/>
+            <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+            <sys_created_on>2022-07-26 14:46:41</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>7e56cc7787b8911412aaca6e8bbb35cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-07-26 14:46:41</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Processed in DRDR</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_aess</name>
+            <sequence>700</sequence>
+            <synonyms/>
+            <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+            <sys_created_on>2022-07-26 14:46:50</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>4a6604b787b8911412aaca6e8bbb3509</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-07-26 14:46:50</sys_updated_on>
+            <value/>
+        </sys_choice>
+    </sys_choice>
+</record_update>

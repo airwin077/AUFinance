@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="approval_status" table="x_amspe_au_finan_0_tetris" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>approval_status</element>
+            <name>x_amspe_au_finan_0_tetris</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2022-06-16 14:50:04</sys_created_on>
+            <sys_id>3b97ca3287cc95503e7987fc8bbb3597</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>approval_status</sys_name>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_choice_x_amspe_au_finan_0_tetris_approval_status</sys_update_name>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-06-16 14:50:04</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_tetris</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2022-06-16 14:50:04</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>6a874ab287cc95503e7987fc8bbb35ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-06-16 14:50:04</sys_updated_on>
+            <value>Approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Approval</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_tetris</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2022-06-16 14:51:20</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>63c746fe878c95503e7987fc8bbb357f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-06-16 14:51:20</sys_updated_on>
+            <value>Pending Approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_amspe_au_finan_0_tetris</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2022-06-16 14:52:08</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>280886f287cc95503e7987fc8bbb352d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-06-16 14:52:08</sys_updated_on>
+            <value>Rejected</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

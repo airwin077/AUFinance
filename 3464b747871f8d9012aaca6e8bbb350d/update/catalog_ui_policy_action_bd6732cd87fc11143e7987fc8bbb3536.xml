@@ -20,7 +20,7 @@
         <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
         <sys_updated_on>2022-07-18 14:43:40</sys_updated_on>
         <table/>
-        <ui_policy display_value="Make 'requester' mandatory depending on 'active'">36373e8d87fc11143e7987fc8bbb35fe</ui_policy>
+        <ui_policy display_value="Make 'requester' mandatory, visible &amp; editable depending on 'active'">36373e8d87fc11143e7987fc8bbb35fe</ui_policy>
         <variable>requester</variable>
         <variable_set/>
         <visible>true</visible>

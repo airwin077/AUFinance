@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="AESS" max_length="40" name="x_amspe_au_finan_0_aess" sizeclass="1" type="collection">
+        <element label="Active" max_length="40" name="active" read_only="true" type="boolean"/>
+        <element label="Add Manufacturer Line" max_length="40" name="add_manufacturer_line" type="boolean"/>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Business Case Summary" mandatory="true" max_length="500" name="business_case_summary" type="string"/>
+        <element label="CAL Name" mandatory="true" max_length="32" name="cal_name" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="CFM Contact" mandatory="true" max_length="32" name="cfm_contact" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element attributes="encode_utf8=false" label="Client Name" mandatory="true" max_length="32" name="client_name" reference="x_amspe_evcm_accenture_clients" type="reference"/>
+        <element label="COGS LOCAL CCY Manufactuer 1" max_length="40" name="cogs_local_ccy_manufactuer_1" type="string"/>
+        <element label="COGS LOCAL CCY Manufactuer 2" max_length="40" name="cogs_local_ccy_manufactuer_2" type="string"/>
+        <element label="COGS LOCAL CCY Manufactuer 3" max_length="40" name="cogs_local_ccy_manufactuer_3" type="string"/>
+        <element label="COGS LOCAL CCY Manufactuer 4" max_length="40" name="cogs_local_ccy_manufactuer_4" type="string"/>
+        <element label="COGS LOCAL CCY Manufactuer 5" max_length="40" name="cogs_local_ccy_manufactuer_5" type="string"/>
+        <element hint="Local Currency" label="Cost of Good Sold" max_length="20" name="cost_of_good_sold" type="price"/>
+        <element label="Country" mandatory="true" max_length="32" name="country" reference="core_country" type="reference"/>
+        <element label="Customer Name" max_length="32" name="customer_name" reference="x_amspe_evcm_accenture_clients" type="reference"/>
+        <element label="Add ESD" max_length="40" name="esd" type="boolean"/>
+        <element label="ESD 1" mandatory="true" max_length="32" name="esd_1" reference="sys_user" reference_qual="u_esd=true^active=true^EQ" reference_qual_condition="u_esd=true^active=true^EQ" type="reference"/>
+        <element label="ESD 2" max_length="32" name="esd_2" reference="sys_user" reference_qual="u_esd=true^active=true^EQ" reference_qual_condition="u_esd=true^active=true^EQ" type="reference"/>
+        <element label="ESD Spilt 1" max_length="2" name="esd_spilt_1" type="integer"/>
+        <element label="ESD Spit 2" max_length="2" name="esd_spit_2" type="integer"/>
+        <element label="Finance Comments" max_length="400" name="finance_comments" type="string"/>
+        <element choice="1" display="true" label="Finance Status" max_length="40" name="finance_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Canceled"/>
+                <element inactive_on_update="false" label="Completed"/>
+                <element inactive_on_update="false" label="In-progress"/>
+            </choice>
+        </element>
+        <element label="Finance Validations" max_length="200" name="finance_validations" type="string"/>
+        <element label="Gross Sales Local Currency" max_length="32" name="gross_sales_local_currency" reference="fx_currency" type="reference"/>
+        <element label="Manufacturer 1" max_length="32" name="manufacturer_1" reference="u_ecosystem_manufacturers" type="reference"/>
+        <element label="Manufacturer 2" max_length="32" name="manufacturer_2" reference="u_ecosystem_manufacturers" type="reference"/>
+        <element label="Manufacturer 3" max_length="32" name="manufacturer_3" reference="u_ecosystem_manufacturers" type="reference"/>
+        <element label="Manufacturer 4" max_length="32" name="manufacturer_4" reference="u_ecosystem_manufacturers" type="reference"/>
+        <element label="Manufacturer 5" max_length="32" name="manufacturer_5" reference="u_ecosystem_manufacturers" type="reference"/>
+        <element label="Margin" max_length="15" name="margin" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Request ID" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="Profit Center" max_length="40" name="profit_center" type="string"/>
+        <element label="Reporting Period" mandatory="true" max_length="32" name="reporting_period" reference="x_amspe_au_finan_0_reporting_period" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element default="&quot;javascript:gs.getUserID()&quot;" label="Requester" mandatory="true" max_length="32" name="requester" read_only="true" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Request Title" max_length="120" name="request_title" type="string"/>
+        <element choice="1" label="Request Type" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AFS"/>
+                <element inactive_on_update="false" label="Embedded Ecosystems Solutions"/>
+                <element inactive_on_update="false" label="Resale Principal"/>
+            </choice>
+        </element>
+        <element hint="RO-000" label="Sourcing Opportunity ID" mandatory="true" max_length="40" name="sourcing_opportunity_id" type="string"/>
+        <element choice="1" default="Draft" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="100"/>
+                <element inactive_on_update="false" label="Submitted" sequence="200"/>
+                <element inactive_on_update="false" label="In Review" sequence="300"/>
+                <element inactive_on_update="false" label="Completed" sequence="400"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="500"/>
+                <element inactive_on_update="false" label="On Hold" sequence="600"/>
+                <element inactive_on_update="false" label="Processed in DRDR" sequence="700"/>
+            </choice>
+        </element>
+        <element label="Supplier Purchase Order Number" max_length="40" name="supplier_purchase_order_number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="WBS Number" max_length="40" name="wbs_number" type="string"/>
+        <element choice="1" label="WBS or Profit Center" max_length="40" name="wbs_or_profit_center" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Profit Center"/>
+                <element inactive_on_update="false" label="WBS"/>
+            </choice>
+        </element>
+        <element label="WBS or Profit Center Local Currency" max_length="32" name="wbs_or_profit_center_local_currency" reference="fx_currency" type="reference"/>
+        <index name="index">
+            <element name="manufacturer_2"/>
+        </index>
+        <index name="index2">
+            <element name="requester"/>
+        </index>
+        <index name="index3">
+            <element name="country"/>
+        </index>
+        <index name="index4">
+            <element name="manufacturer_3"/>
+        </index>
+        <index name="index5">
+            <element name="manufacturer_4"/>
+        </index>
+        <index name="index6">
+            <element name="manufacturer_5"/>
+        </index>
+        <index name="index7">
+            <element name="manufacturer_1"/>
+        </index>
+        <index name="index8">
+            <element name="requested_for"/>
+        </index>
+        <index name="index9">
+            <element name="esd_2"/>
+        </index>
+        <index name="index10">
+            <element name="esd_1"/>
+        </index>
+        <index name="index11">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index12">
+            <element name="cfm_contact"/>
+        </index>
+        <index name="index13">
+            <element name="cal_name"/>
+        </index>
+        <index name="index14">
+            <element name="gross_sales_local_currency"/>
+        </index>
+        <index name="index15">
+            <element name="customer_name"/>
+        </index>
+        <index name="index16">
+            <element name="client_name"/>
+        </index>
+        <index name="index17">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index18">
+            <element name="reporting_period"/>
+        </index>
+    </element>
+</database>

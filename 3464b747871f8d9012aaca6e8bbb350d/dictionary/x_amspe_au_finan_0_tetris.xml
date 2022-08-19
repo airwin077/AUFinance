@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TETRIS" max_length="40" name="x_amspe_au_finan_0_tetris" sizeclass="2" type="collection">
+        <element label="Active" max_length="40" name="active" read_only="true" type="boolean"/>
+        <element choice="1" label="Approval Status" max_length="40" name="approval_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="10" value="Approved"/>
+                <element inactive_on_update="false" label="Pending Approval" sequence="20" value="Pending Approval"/>
+                <element inactive_on_update="false" label="Rejected" sequence="30" value="Rejected"/>
+            </choice>
+        </element>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Business Case" max_length="1000" name="business_case" type="string"/>
+        <element choice="1" label="Client" max_length="32" name="client" reference="x_amspe_evcm_accenture_clients" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference">
+            <choice/>
+        </element>
+        <element label="Completion Date" max_length="40" name="completion_date" type="glide_date"/>
+        <element label="Finance Comments" max_length="500" name="finance_comments" type="string"/>
+        <element label="Finance ID" max_length="40" name="finance_id" type="string"/>
+        <element choice="1" label="Fiscal Year" max_length="32" name="fiscal_year" reference="x_amspe_au_finan_0_reporting_period" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference">
+            <choice/>
+        </element>
+        <element label="From Manufacturer - Ref" max_length="32" name="from_manufacturer_ref" reference="u_ecosystem_manufacturers" type="reference"/>
+        <element label="From Vendor/Distributor" max_length="32" name="from_vendor_distributor" reference="u_ecosystem_vendors" type="reference"/>
+        <element label="Local Currency Revenue" max_length="40" name="local_currency_revenue" type="price"/>
+        <element choice="1" label="Market" max_length="32" name="market" reference="u_ecosystem_markets" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Request ID" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element choice="1" label="Operating Group" max_length="40" name="operating_group" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Communications Media &amp; Technology" sequence="10" value="Communications Media &amp; Technology"/>
+                <element inactive_on_update="false" label="Financial Services" sequence="20" value="Financial Services"/>
+                <element inactive_on_update="false" label="Health &amp; Public Service" sequence="30" value="Health &amp; Public Service"/>
+                <element inactive_on_update="false" label="Health &amp; Public Service - State &amp; Local, Products" sequence="40" value="Health &amp; Public Service - State &amp; Local, Products"/>
+                <element inactive_on_update="false" label="Products" sequence="50" value="Products"/>
+                <element inactive_on_update="false" label="Resources" sequence="60" value="Resources"/>
+            </choice>
+        </element>
+        <element label="Related Request ID" max_length="40" name="related_request_id" type="string"/>
+        <element choice="1" default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested For" max_length="32" name="requester" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference" use_dynamic_default="true">
+            <choice/>
+        </element>
+        <element label="Requester Comments" max_length="500" name="requester_comments" type="string"/>
+        <element choice="1" label="Request Type" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accenture ASD Change Request" sequence="10" value="Accenture ASD Change Request"/>
+                <element inactive_on_update="false" label="Avanade ASD Change Request" sequence="20" value="Avanade ASD Change Request"/>
+                <element inactive_on_update="false" label="Vendor/Manufacturer" sequence="30" value="Vendor/Manufacturer"/>
+            </choice>
+        </element>
+        <element choice="1" display="true" label="State" max_length="100" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="10" value="Approved"/>
+                <element inactive_on_update="false" label="InProgress" sequence="20" value="In Progress"/>
+                <element inactive_on_update="false" label="On-Hold" sequence="30" value="On-Hold"/>
+                <element inactive_on_update="false" label="Processed in DRDR" sequence="40" value="Processed in DRDR"/>
+                <element inactive_on_update="false" label="Rejected" sequence="50" value="Rejected"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="100" value="Draft"/>
+                <element inactive_on_update="false" label="In Review" sequence="200" value="In Review"/>
+                <element inactive_on_update="false" label="Submitted" sequence="300" value="Submitted"/>
+                <element inactive_on_update="false" label="Completed" sequence="400" value="Completed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="500" value="Cancelled"/>
+                <element inactive_on_update="false" label="On Hold" sequence="600" value="On Hold"/>
+                <element inactive_on_update="false" label="Processed in DRDR" sequence="700" value="Processed in DRDR"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="Title" max_length="120" name="title" type="string"/>
+        <element label="To Manufacturer" max_length="32" name="to_manufacturer" reference="u_ecosystem_manufacturers" type="reference"/>
+        <element label="To Vendor/Distributor" max_length="32" name="to_vendor_distributor" reference="u_ecosystem_vendors" type="reference"/>
+        <element label="USD Revenue Amount" max_length="40" name="usd_revenue_amout" type="price"/>
+        <element label="WBSE" max_length="40" name="wbse" type="string"/>
+        <index name="index">
+            <element name="from_vendor_distributor"/>
+        </index>
+        <index name="index2">
+            <element name="market"/>
+        </index>
+        <index name="index3">
+            <element name="requester"/>
+        </index>
+        <index name="index4">
+            <element name="to_manufacturer"/>
+        </index>
+        <index name="index5">
+            <element name="to_vendor_distributor"/>
+        </index>
+        <index name="index6">
+            <element name="fiscal_year"/>
+        </index>
+        <index name="index7">
+            <element name="from_manufacturer_ref"/>
+        </index>
+        <index name="index8">
+            <element name="client"/>
+        </index>
+        <index name="index9">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index10">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>
