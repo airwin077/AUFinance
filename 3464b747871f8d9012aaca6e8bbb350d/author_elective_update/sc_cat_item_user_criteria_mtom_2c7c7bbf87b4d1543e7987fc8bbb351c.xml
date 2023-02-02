@@ -41,7 +41,7 @@
         <update_guid_history>e87c7bbf5bb4d154c117614daf446f38:-585738755</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Record deleted 07/27/2022 04:41:46">e88cbfbf87b4d1543e7987fc8bbb35a3</sys_audit_delete>
+        <sys_audit_delete display_value="Record deleted 2022-07-27 04:41:46">e88cbfbf87b4d1543e7987fc8bbb35a3</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
         <sys_created_on>2022-07-27 08:41:46</sys_created_on>

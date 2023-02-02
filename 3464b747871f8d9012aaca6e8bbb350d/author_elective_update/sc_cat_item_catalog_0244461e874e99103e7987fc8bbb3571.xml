@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="AU Status Request">1c3e7d92874e99103e7987fc8bbb350b</sc_cat_item>
+        <sc_catalog display_value="Support Catalog">c1dcdfeddb2b6f00b203cd4d0b961920</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2022-09-22 11:24:04</sys_created_on>
+        <sys_id>0244461e874e99103e7987fc8bbb3571</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Catalog.AU Status Request</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_0244461e874e99103e7987fc8bbb3571</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-09-22 11:24:04</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</application>
+        <file_path/>
+        <instance_id>d4f8d0ef9b9acb08bb2e6b8af359ff79</instance_id>
+        <instance_name>ecosystemsdev</instance_name>
+        <name>sc_cat_item_catalog_0244461e874e99103e7987fc8bbb3571</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="AU Status Request">1c3e7d92874e99103e7987fc8bbb350b</sc_cat_item><sc_catalog display_value="Support Catalog">c1dcdfeddb2b6f00b203cd4d0b961920</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2022-09-22 11:24:04</sys_created_on><sys_id>0244461e874e99103e7987fc8bbb3571</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Support Catalog.AU Status Request</sys_name><sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package><sys_policy/><sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope><sys_update_name>sc_cat_item_catalog_0244461e874e99103e7987fc8bbb3571</sys_update_name><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2022-09-22 11:24:04</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1099467550</payload_hash>
+        <record_name>Support Catalog.AU Status Request</record_name>
+        <reverted_from/>
+        <source>f87af516870e99103e7987fc8bbb35bc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2022-09-22 11:24:05</sys_created_on>
+        <sys_id>4644461e874e99103e7987fc8bbb3575</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18364f0c8100000001</sys_recorded_at>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-09-22 11:24:05</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8a44461ea44e9910ddeff07131f59974</update_guid>
+        <update_guid_history>8a44461ea44e9910ddeff07131f59974:-1099467550</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2022-09-22 07:24:51">9d740a1e874e99103e7987fc8bbb35fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2022-09-22 11:24:51</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>05d0db87872f411090bbed7c929b8100</sys_id>
+        <sys_metadata>0244461e874e99103e7987fc8bbb3571</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Catalog.AU Status Request</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_parent display_value="AU Status Request">1c3e7d92874e99103e7987fc8bbb350b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_scope_delete display_value="">3416ead7f0ba491ea06a38b206ad8344</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_0244461e874e99103e7987fc8bbb3571</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_0244461e874e99103e7987fc8bbb3571">4644461e874e99103e7987fc8bbb3575</sys_update_version>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-09-22 11:24:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

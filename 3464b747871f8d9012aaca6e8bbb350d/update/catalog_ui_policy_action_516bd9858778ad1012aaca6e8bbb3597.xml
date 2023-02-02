@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Tetris">f7894f47876415d03e7987fc8bbb356c</catalog_item>
+        <catalog_variable>IO:baf6990d8738ad1012aaca6e8bbb3596</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-02-02 04:05:42</sys_created_on>
+        <sys_id>516bd9858778ad1012aaca6e8bbb3597</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>from_option</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_516bd9858778ad1012aaca6e8bbb3597</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-02-02 04:05:42</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'from_option' mandatory &amp; visible depending on 'request_type'">3d3b55858778ad1012aaca6e8bbb35a9</ui_policy>
+        <variable>from_option</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

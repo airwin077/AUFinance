@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="AESS" max_length="40" name="x_amspe_au_finan_0_aess" sizeclass="1" type="collection">
+    <element db_object_id="d6453b8b871f8d9012aaca6e8bbb35bd" label="AESS" max_length="40" name="x_amspe_au_finan_0_aess" type="collection">
         <element label="Active" max_length="40" name="active" read_only="true" type="boolean"/>
         <element label="Add Manufacturer Line" max_length="40" name="add_manufacturer_line" type="boolean"/>
         <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
@@ -30,8 +30,8 @@
         </element>
         <element label="Finance Validations" max_length="200" name="finance_validations" type="string"/>
         <element label="Gross Sales Local Currency" max_length="32" name="gross_sales_local_currency" reference="fx_currency" type="reference"/>
-        <element label="Manufacturer 1" max_length="32" name="manufacturer_1" reference="u_ecosystem_manufacturers" type="reference"/>
-        <element label="Manufacturer 2" max_length="32" name="manufacturer_2" reference="u_ecosystem_manufacturers" type="reference"/>
+        <element label="Manufacturer 1" max_length="32" name="manufacturer_1" reference="u_ecosystem_manufacturers" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
+        <element label="Manufacturer 2" max_length="32" name="manufacturer_2" reference="u_ecosystem_manufacturers" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
         <element label="Manufacturer 3" max_length="32" name="manufacturer_3" reference="u_ecosystem_manufacturers" type="reference"/>
         <element label="Manufacturer 4" max_length="32" name="manufacturer_4" reference="u_ecosystem_manufacturers" type="reference"/>
         <element label="Manufacturer 5" max_length="32" name="manufacturer_5" reference="u_ecosystem_manufacturers" type="reference"/>
@@ -72,58 +72,58 @@
         </element>
         <element label="WBS or Profit Center Local Currency" max_length="32" name="wbs_or_profit_center_local_currency" reference="fx_currency" type="reference"/>
         <index name="index">
-            <element name="manufacturer_2"/>
-        </index>
-        <index name="index2">
-            <element name="requester"/>
-        </index>
-        <index name="index3">
-            <element name="country"/>
-        </index>
-        <index name="index4">
-            <element name="manufacturer_3"/>
-        </index>
-        <index name="index5">
-            <element name="manufacturer_4"/>
-        </index>
-        <index name="index6">
-            <element name="manufacturer_5"/>
-        </index>
-        <index name="index7">
-            <element name="manufacturer_1"/>
-        </index>
-        <index name="index8">
-            <element name="requested_for"/>
-        </index>
-        <index name="index9">
-            <element name="esd_2"/>
-        </index>
-        <index name="index10">
-            <element name="esd_1"/>
-        </index>
-        <index name="index11">
-            <element name="sys_class_name"/>
-        </index>
-        <index name="index12">
-            <element name="cfm_contact"/>
-        </index>
-        <index name="index13">
-            <element name="cal_name"/>
-        </index>
-        <index name="index14">
-            <element name="gross_sales_local_currency"/>
-        </index>
-        <index name="index15">
-            <element name="customer_name"/>
-        </index>
-        <index name="index16">
-            <element name="client_name"/>
-        </index>
-        <index name="index17">
             <element name="assigned_to"/>
         </index>
-        <index name="index18">
+        <index name="index2">
+            <element name="cal_name"/>
+        </index>
+        <index name="index3">
+            <element name="cfm_contact"/>
+        </index>
+        <index name="index4">
+            <element name="client_name"/>
+        </index>
+        <index name="index5">
+            <element name="country"/>
+        </index>
+        <index name="index6">
+            <element name="customer_name"/>
+        </index>
+        <index name="index7">
+            <element name="esd_1"/>
+        </index>
+        <index name="index8">
+            <element name="esd_2"/>
+        </index>
+        <index name="index9">
+            <element name="gross_sales_local_currency"/>
+        </index>
+        <index name="index10">
+            <element name="manufacturer_1"/>
+        </index>
+        <index name="index11">
+            <element name="manufacturer_2"/>
+        </index>
+        <index name="index12">
+            <element name="manufacturer_3"/>
+        </index>
+        <index name="index13">
+            <element name="manufacturer_4"/>
+        </index>
+        <index name="index14">
+            <element name="manufacturer_5"/>
+        </index>
+        <index name="index15">
             <element name="reporting_period"/>
+        </index>
+        <index name="index16">
+            <element name="requested_for"/>
+        </index>
+        <index name="index17">
+            <element name="requester"/>
+        </index>
+        <index name="index18">
+            <element name="sys_class_name"/>
         </index>
     </element>
 </database>

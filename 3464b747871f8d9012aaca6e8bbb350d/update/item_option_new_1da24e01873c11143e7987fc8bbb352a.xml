@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
         <cat_item display_value="Tetris">f7894f47876415d03e7987fc8bbb356c</cat_item>
         <category/>
@@ -39,8 +39,9 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>requester</name>
-        <order>400</order>
+        <name>requested_for</name>
+        <order>600</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -70,14 +71,14 @@
         <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
         <sys_created_on>2022-07-18 10:58:00</sys_created_on>
         <sys_id>1da24e01873c11143e7987fc8bbb352a</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_name>Requested For</sys_name>
         <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
         <sys_policy/>
         <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
         <sys_update_name>item_option_new_1da24e01873c11143e7987fc8bbb352a</sys_update_name>
-        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-        <sys_updated_on>2022-07-27 15:40:06</sys_updated_on>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-10-05 13:04:23</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>

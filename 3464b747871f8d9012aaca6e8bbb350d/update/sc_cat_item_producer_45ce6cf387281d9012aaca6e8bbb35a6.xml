@@ -7,13 +7,13 @@
         <billable>false</billable>
         <can_cancel>false</can_cancel>
         <category display_value="AU Finance">84ec287387281d9012aaca6e8bbb35fd</category>
-        <checked_out/>
+        <checked_out>true</checked_out>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p><img src="https://ecosystemsdev.service-now.com/sys_attachment.do?sys_id&#61;eadf847d87bc19d012aaca6e8bbb35ac" alt="" width="1800" height="100" /></p>]]></description>
+        <description><![CDATA[<p><img style="align: top;" title="" src="AESS%20Heading.jpgx" alt="" width="627" height="247" align="top" border="" hspace="" vspace="" /></p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -46,7 +46,7 @@
         <order>0</order>
         <ordered_item_link/>
         <owner display_value="nirju.trishna.bhuyan@accenture.com">f016ca42dbc4eb007fee1cd74b961972</owner>
-        <picture/>
+        <picture>b683d65a870e591012aaca6e8bbb35d0</picture>
         <post_insert_script/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=45ce6cf387281d9012aaca6e8bbb35a6&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
@@ -65,19 +65,19 @@
         <short_description>TBD</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state/>
+        <state>published</state>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
         <sys_created_on>2022-07-14 07:27:09</sys_created_on>
         <sys_id>45ce6cf387281d9012aaca6e8bbb35a6</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>AESS Request Form</sys_name>
         <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
         <sys_policy/>
         <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
         <sys_update_name>sc_cat_item_producer_45ce6cf387281d9012aaca6e8bbb35a6</sys_update_name>
         <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
-        <sys_updated_on>2022-07-20 10:22:52</sys_updated_on>
+        <sys_updated_on>2022-09-22 12:33:24</sys_updated_on>
         <table_name>x_amspe_au_finan_0_aess</table_name>
         <taxonomy_topic/>
         <template/>

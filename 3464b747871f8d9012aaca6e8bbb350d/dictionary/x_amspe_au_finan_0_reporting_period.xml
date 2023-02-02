@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Reporting Period" max_length="40" name="x_amspe_au_finan_0_reporting_period" sizeclass="24" type="collection">
+    <element db_object_id="9af47f4d87e305543e7987fc8bbb351b" label="Reporting Period" max_length="40" name="x_amspe_au_finan_0_reporting_period" type="collection">
         <element label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Calendar Year" max_length="40" name="calendar_year" type="string"/>
         <element label="Fiscal Quarter" max_length="40" name="fiscal_quarter" type="string"/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="AU Status Request">1c3e7d92874e99103e7987fc8bbb350b</sc_cat_item>
+        <sc_category display_value="AU Finance">84ec287387281d9012aaca6e8bbb35fd</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2022-09-22 12:02:24</sys_created_on>
+        <sys_id>9f0d0a96878e99103e7987fc8bbb3590</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AU Finance.AU Status Request</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sc_cat_item_category_9f0d0a96878e99103e7987fc8bbb3590</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-09-22 12:02:24</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -9,7 +9,7 @@
         <choice_table/>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>javascript:gs.getUserID();</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>requested_for</name>
         <order>500</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -52,9 +53,14 @@
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table>x_amspe_au_finan_0_aess</record_producer_table>
-        <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference>sys_user</reference>
+        <reference_qual>active=true^emailENDSWITH@accenture.com^ORemailENDSWITH@avanade.com^ORemailENDSWITH@accenturefederal.com</reference_qual>
+        <reference_qual_condition table="sys_user">active=true^emailENDSWITH@accenture.com^ORemailENDSWITH@avanade.com^ORemailENDSWITH@accenturefederal.com^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="email" goto="false" newquery="false" operator="ENDSWITH" or="false" value="@accenture.com"/>
+            <item endquery="false" field="email" goto="false" newquery="false" operator="ENDSWITH" or="true" value="@avanade.com"/>
+            <item endquery="false" field="email" goto="false" newquery="false" operator="ENDSWITH" or="true" value="@accenturefederal.com"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script/>
@@ -68,17 +74,17 @@
         <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
         <sys_created_on>2022-08-10 11:18:33</sys_created_on>
         <sys_id>258624ec875119103e7987fc8bbb35d6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Requested for</sys_name>
         <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
         <sys_policy/>
         <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
         <sys_update_name>item_option_new_258624ec875119103e7987fc8bbb35d6</sys_update_name>
-        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
-        <sys_updated_on>2022-08-10 11:19:36</sys_updated_on>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-09-21 15:56:30</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>8</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

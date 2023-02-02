@@ -9,7 +9,6 @@
         <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>true</delete_access>
-        <extension_model/>
         <is_extendable>true</is_extendable>
         <label>Status Request</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -19,9 +18,7 @@
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
         <super_class/>
-        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
         <sys_created_on>2022-05-11 10:42:00</sys_created_on>
         <sys_id>d3957b0f871f8d9012aaca6e8bbb3510</sys_id>

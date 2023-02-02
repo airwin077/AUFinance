@@ -35,12 +35,13 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>request_title</name>
         <order>400</order>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +69,14 @@
         <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
         <sys_created_on>2022-07-19 14:59:15</sys_created_on>
         <sys_id>111648e18730d5d012aaca6e8bbb35e4</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Request Title</sys_name>
         <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
         <sys_policy/>
         <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
         <sys_update_name>item_option_new_111648e18730d5d012aaca6e8bbb35e4</sys_update_name>
-        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
-        <sys_updated_on>2022-07-19 15:33:11</sys_updated_on>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2022-09-21 15:57:46</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

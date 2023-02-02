@@ -59,7 +59,7 @@
         <update_guid_history>e09c6433ef281d90ff74ae9a186208a1:302190887</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Record deleted 07/14/2022 03:18:15">aebca87387281d9012aaca6e8bbb35db</sys_audit_delete>
+        <sys_audit_delete display_value="Record deleted 2022-07-14 03:18:15">aebca87387281d9012aaca6e8bbb35db</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
         <sys_created_on>2022-07-14 07:18:15</sys_created_on>
