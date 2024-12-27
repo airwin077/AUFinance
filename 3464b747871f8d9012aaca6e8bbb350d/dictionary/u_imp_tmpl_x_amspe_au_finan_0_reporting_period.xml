@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ba9645291b203110aba7639ce54bcba3" extends="sys_import_set_row" label="Import Reporting Period AU Finance Forms" max_length="40" name="u_imp_tmpl_x_amspe_au_finan_0_reporting_period" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fiscal Month Numeric" label="Fiscal Month Numeric" max_length="150" name="u_fiscal_month_numeric" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FY End" label="FY End" max_length="40" name="u_fy_end" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="150" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Period Type" label="Period Type" max_length="150" name="u_period_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FY Start" label="FY Start" max_length="40" name="u_fy_start" type="glide_date"/>
+    </element>
+</database>

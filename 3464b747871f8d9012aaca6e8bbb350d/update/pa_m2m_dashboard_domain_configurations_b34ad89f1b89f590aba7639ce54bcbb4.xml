@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_m2m_dashboard_domain_configurations">
+    <pa_m2m_dashboard_domain_configurations action="INSERT_OR_UPDATE">
+        <dashboard display_value="ESS &amp; TETRIS Dashboard">8a5f48c11b8cf910aba7639ce54bcbd9</dashboard>
+        <domain_configuration display_value="TOP">c47ef93edb96e4540a2509d5f3961976</domain_configuration>
+        <order>100</order>
+        <sys_class_name>pa_m2m_dashboard_domain_configurations</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-09-08 05:34:31</sys_created_on>
+        <sys_id>b34ad89f1b89f590aba7639ce54bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AESS &amp; TETRIS Dashboard.TOP</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_domain_configurations_b34ad89f1b89f590aba7639ce54bcbb4</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-09-08 05:34:31</sys_updated_on>
+    </pa_m2m_dashboard_domain_configurations>
+</record_update>

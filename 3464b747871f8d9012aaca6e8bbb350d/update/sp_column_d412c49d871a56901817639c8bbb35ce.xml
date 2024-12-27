@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <size/>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="2">5302c09d871a56901817639c8bbb3536</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-04 18:21:33</sys_created_on>
+        <sys_id>d412c49d871a56901817639c8bbb35ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sp_column_d412c49d871a56901817639c8bbb35ce</sys_update_name>
+        <sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-04 18:21:33</sys_updated_on>
+    </sp_column>
+</record_update>

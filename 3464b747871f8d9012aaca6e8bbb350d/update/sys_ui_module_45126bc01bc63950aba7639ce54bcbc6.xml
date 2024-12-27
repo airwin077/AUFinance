@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Master Client">89126bc01bc63950aba7639ce54bcbc2</application>
+        <filter/>
+        <name>Master Clients</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_amspe_au_finan_0.master_client_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-10-18 10:49:51</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>45126bc01bc63950aba7639ce54bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Clients</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_ui_module_45126bc01bc63950aba7639ce54bcbc6</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-18 10:49:51</sys_updated_on>
+        <table>x_amspe_au_finan_0_master_client</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

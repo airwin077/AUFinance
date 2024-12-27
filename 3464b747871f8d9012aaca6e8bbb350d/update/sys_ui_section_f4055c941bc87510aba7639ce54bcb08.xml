@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Tetris Approver" section_id="f4055c941bc87510aba7639ce54bcb08" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_tetris" version="3" view="tetris_reporting">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>validations_successfully_completed</element>
+            <position>0</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>17679bbb8731391012aaca6e8bbb3561</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>d3679bbb8731391012aaca6e8bbb3562</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver_id</element>
+            <position>2</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>5b679bbb8731391012aaca6e8bbb3562</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>df679bbb8731391012aaca6e8bbb3562</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_status</element>
+            <position>4</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>57679bbb8731391012aaca6e8bbb3563</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>db679bbb8731391012aaca6e8bbb3563</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approved_rejected_date</element>
+            <position>6</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>53679bbb8731391012aaca6e8bbb3564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>d7679bbb8731391012aaca6e8bbb3564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver_comments</element>
+            <position>8</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-17 15:24:50</sys_created_on>
+            <sys_id>5f679bbb8731391012aaca6e8bbb3564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-17 15:24:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Tetris Approver</caption>
+            <header>false</header>
+            <name>x_amspe_au_finan_0_tetris</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-07-11 04:26:49</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>f4055c941bc87510aba7639ce54bcb08</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_amspe_au_finan_0_tetris</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_ui_section_f4055c941bc87510aba7639ce54bcb08</sys_update_name>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-07-11 04:26:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Tetris Reporting" name="tetris_reporting">8602105c1b887510aba7639ce54bcb06</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

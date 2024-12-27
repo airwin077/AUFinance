@@ -16,7 +16,7 @@
         <column_label>Status</column_label>
         <comments/>
         <create_roles/>
-        <default_value>Draft</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -57,8 +57,8 @@
         <sys_policy/>
         <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
         <sys_update_name>sys_dictionary_x_amspe_au_finan_0_aess_status</sys_update_name>
-        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-        <sys_updated_on>2022-05-17 12:23:32</sys_updated_on>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-02-07 03:03:04</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Finance Section" section_id="247c402587dad6901817639c8bbb3569" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_aess" version="3" view="SPD">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 20:22:22</sys_created_on>
+            <sys_id>b9043a8887aed2501817639c8bbb3579</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 20:22:22</sys_updated_on>
+            <text/>
+            <type display_value="White Space separator">cb5186d71b760c54c6bd2f06bd4bcb30</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 20:22:22</sys_created_on>
+            <sys_id>b50436c887aed2501817639c8bbb3523</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Finance Section" display_value="Finance Section" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3569</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 20:22:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>finance_status</element>
+            <position>1</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 20:22:22</sys_created_on>
+            <sys_id>390436c887aed2501817639c8bbb3524</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Finance Section" display_value="Finance Section" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3569</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 20:22:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 20:22:22</sys_created_on>
+            <sys_id>710436c887aed2501817639c8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Finance Section" display_value="Finance Section" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3569</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 20:22:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 20:22:22</sys_created_on>
+            <sys_id>b90436c887aed2501817639c8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Finance Section" display_value="Finance Section" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3569</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 20:22:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>b9043a8887aed2501817639c8bbb3579</element>
+            <position>4</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 20:22:22</sys_created_on>
+            <sys_id>f10436c887aed2501817639c8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Finance Section" display_value="Finance Section" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3569</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 20:22:22</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>finance_comments</element>
+            <position>5</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 20:22:22</sys_created_on>
+            <sys_id>3d0436c887aed2501817639c8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Finance Section" display_value="Finance Section" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3569</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 20:22:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>6</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 20:22:22</sys_created_on>
+            <sys_id>750436c887aed2501817639c8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Finance Section" display_value="Finance Section" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3569</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 20:22:22</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Finance Section</caption>
+            <header>false</header>
+            <name>x_amspe_au_finan_0_aess</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-05 13:45:23</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>247c402587dad6901817639c8bbb3569</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_amspe_au_finan_0_aess</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_ui_section_247c402587dad6901817639c8bbb3569</sys_update_name>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-05 13:45:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="SPD" name="SPD">877cadd7db549300bdb98edf4b9619a3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

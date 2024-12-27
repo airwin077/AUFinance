@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b05619e91b243110aba7639ce54bcbe3" label="DRDR Report for Tetris" max_length="40" name="x_amspe_au_finan_0_drdr_report" type="collection">
+        <element label="Master Client ID" max_length="100" name="master_client_id" type="integer"/>
+        <element label="WBS" max_length="100" name="wbs" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_amspe_au_finan_0_tetris</collection>
+        <email_layout display_value="AU Forms Tetris">ca7a5bbf87f7251012aaca6e8bbb359b</email_layout>
+        <message/>
+        <message_html><![CDATA[<p><img style="align: baseline;" title="" src="sys_attachment.do?sys_id=2fca030b1b467910aba7639ce54bcb94" alt="" width="3543" height="1157" align="baseline" border="" hspace="" vspace="" /></p>
+<p>${notification:body} &nbsp;</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>AU Finace Reporting Team - Assigned </name>
+        <sms_alternate/>
+        <subject>AU Finance (Tetris) - Reporting Team - Assigned </subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-10-27 16:52:32</sys_created_on>
+        <sys_id>44d607031b467910aba7639ce54bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AU Finace Reporting Team - Assigned </sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sysevent_email_template_44d607031b467910aba7639ce54bcb93</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-27 16:52:32</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

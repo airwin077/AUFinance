@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="OG - Tetris">ce464ddd87c4f91012aaca6e8bbb3501</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-09-08 06:29:45</sys_created_on>
+        <sys_id>4df62c571b0df590aba7639ce54bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ce464ddd87c4f91012aaca6e8bbb3501</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_report_users_groups_4df62c571b0df590aba7639ce54bcbc5</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-09-08 06:29:45</sys_updated_on>
+        <user_id display_value="jesica.borda.olivera@accenture.com">2acb06bfdbd7af00ef0683305b96199b</user_id>
+    </sys_report_users_groups>
+</record_update>

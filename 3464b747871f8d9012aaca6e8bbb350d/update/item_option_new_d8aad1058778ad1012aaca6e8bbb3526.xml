@@ -17,6 +17,8 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
+        <dynamic_value_dot_walk_path/>
+        <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field>to_option</field>
@@ -24,7 +26,7 @@
         <help_tag>More information</help_tag>
         <help_text/>
         <hidden>false</hidden>
-        <include_none>false</include_none>
+        <include_none>true</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
@@ -40,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>to_option</name>
-        <order>3200</order>
+        <order>6000</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -54,8 +56,8 @@
         <record/>
         <record_producer_table>x_amspe_au_finan_0_tetris</record_producer_table>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated 
@@ -73,16 +75,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
-        <sys_created_on>2023-02-02 04:04:40</sys_created_on>
+        <sys_created_on>2023-07-26 20:22:44</sys_created_on>
         <sys_id>d8aad1058778ad1012aaca6e8bbb3526</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>To Option</sys_name>
         <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
         <sys_policy/>
         <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
         <sys_update_name>item_option_new_d8aad1058778ad1012aaca6e8bbb3526</sys_update_name>
         <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
-        <sys_updated_on>2023-02-02 04:27:39</sys_updated_on>
+        <sys_updated_on>2024-12-06 14:03:45</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
@@ -93,7 +95,7 @@
         <validate_regex/>
         <variable_name/>
         <variable_set/>
-        <variable_width/>
+        <variable_width>50</variable_width>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="link_generator_source">
+    <link_generator_source action="INSERT_OR_UPDATE">
+        <base_url>https://ecosystems.service-now.com/support?id=sc_cat_item&amp;sys_id=118460141b2c5094c6bd2f06bd4bcb66&amp;sysparm_category=a0820197db9a4090f21762eb0b9619f6</base_url>
+        <sys_class_name>link_generator_source</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2023-11-03 19:17:01</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>d33fab911b1eb550aba7639ce54bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Master Client</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>link_generator_source_d33fab911b1eb550aba7639ce54bcb3e</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-11-03 19:17:01</sys_updated_on>
+        <system_name>New Master Client</system_name>
+    </link_generator_source>
+</record_update>

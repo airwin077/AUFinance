@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group/>
+        <location/>
+        <match_all>false</match_all>
+        <name>Instance Admins</name>
+        <role/>
+        <script/>
+        <short_description/>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>andrew.irwin@accenture.com</sys_created_by>
+        <sys_created_on>2023-02-02 17:30:03</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>e623141587b4215012aaca6e8bbb3502</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Instance Admins</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>user_criteria_e623141587b4215012aaca6e8bbb3502</sys_update_name>
+        <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-02-02 17:30:03</sys_updated_on>
+        <user>1c695b21dbe6c300a9abd3ca4b9619c2,12c18653dbea9740a9abd3ca4b9619b1</user>
+    </user_criteria>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="247c402587dad6901817639c8bbb3565" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_aess" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-05 13:45:23</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>a47c402587dad6901817639c8bbb3568</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_amspe_au_finan_0_aess" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3565</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">d2f591d187d296901817639c8bbb35fa</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-05 13:45:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-05 13:45:23</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>e47c446587dad6901817639c8bbb3557</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_amspe_au_finan_0_aess" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3565</sys_ui_form>
+            <sys_ui_section caption="Finance Section" display_value="Finance Section" name="x_amspe_au_finan_0_aess" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="877cadd7db549300bdb98edf4b9619a3">247c402587dad6901817639c8bbb3569</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-05 13:45:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_amspe_au_finan_0_aess</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-05 13:45:23</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>247c402587dad6901817639c8bbb3565</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_amspe_au_finan_0_aess</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_247c402587dad6901817639c8bbb3565</sys_update_name>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-05 13:45:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="SPD" name="SPD">877cadd7db549300bdb98edf4b9619a3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

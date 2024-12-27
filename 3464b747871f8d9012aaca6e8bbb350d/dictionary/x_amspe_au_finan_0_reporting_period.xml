@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="9af47f4d87e305543e7987fc8bbb351b" label="Reporting Period" max_length="40" name="x_amspe_au_finan_0_reporting_period" type="collection">
-        <element label="Active" max_length="40" name="active" type="boolean"/>
-        <element label="Calendar Year" max_length="40" name="calendar_year" type="string"/>
-        <element label="Fiscal Quarter" max_length="40" name="fiscal_quarter" type="string"/>
-        <element label="Fiscal Year" max_length="40" name="fiscal_year" type="string"/>
+        <element label="FY End" max_length="40" name="fy_end" type="glide_date"/>
+        <element label="FY Start" max_length="40" name="fy_start" type="glide_date"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Fiscal Month Numeric" max_length="150" name="fiscal_month_numeric" type="string"/>
+        <element label="Fiscal Period" max_length="100" name="fiscal_period" reference="x_amspe_au_finan_0_reporting_period" reference_qual="period_type=Fiscal Period^active=true^EQ" reference_qual_condition="period_type=Fiscal Period^active=true^EQ" type="reference" unique="true"/>
+        <element choice="1" label="Period Type" max_length="150" name="period_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fiscal Month" sequence="100" value="Fiscal Month"/>
+                <element inactive_on_update="false" label="Fiscal Period" sequence="200" value="Fiscal Period"/>
+                <element inactive_on_update="false" label="Fiscal Year" sequence="300" value="Fiscal Year"/>
+            </choice>
+        </element>
+        <element display="true" label="Name" max_length="150" name="name" type="string"/>
+        <element label="Sequence" max_length="40" name="sequence" type="integer"/>
     </element>
 </database>

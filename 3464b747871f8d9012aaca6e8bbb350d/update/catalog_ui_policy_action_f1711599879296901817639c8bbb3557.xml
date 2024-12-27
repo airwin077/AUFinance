@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Tetris">f7894f47876415d03e7987fc8bbb356c</catalog_item>
+        <catalog_variable>IO:eb5ceb9d1bdab550aba7639ce54bcb6f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>1300</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-05 00:08:51</sys_created_on>
+        <sys_id>f1711599879296901817639c8bbb3557</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>master_client_not_found</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_f1711599879296901817639c8bbb3557</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-05 00:08:51</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Display fields for Req Types (all except bulk)">ff65f63a1b8ef510aba7639ce54bcb8b</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>master_client_not_found</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

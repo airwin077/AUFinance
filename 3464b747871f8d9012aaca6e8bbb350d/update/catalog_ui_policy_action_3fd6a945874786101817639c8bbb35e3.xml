@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="EES Request Form">45ce6cf387281d9012aaca6e8bbb35a6</catalog_item>
+        <catalog_variable>IO:61eba64d873c15d012aaca6e8bbb356b</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-06-25 17:39:52</sys_created_on>
+        <sys_id>3fd6a945874786101817639c8bbb35e3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>add_esd2</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_3fd6a945874786101817639c8bbb35e3</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-08-06 18:40:55</sys_updated_on>
+        <table/>
+        <ui_policy display_value="esd_2 and add_esd2 become visible when ¿Do you need to add an ESD? is true">d240554d874386101817639c8bbb35bc</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>add_esd2</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {
+  /* widget controller */
+  var c = this;
+};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.header {&#13;
+  font-weight:bold;&#13;
+  padding: 10px 290px 10px 10px; &#13;
+}&#13;
+&#13;
+.pre-wrap {&#13;
+  white-space: pre-wrap;&#13;
+}&#13;
+&#13;
+.ticket-fields {&#13;
+  margin-left: -7px;&#13;
+  margin-right: -8px;&#13;
+  -webkit-margin-before: 0;&#13;
+  -webkit-margin-after: 0;&#13;
+  &#13;
+  dt {&#13;
+    //font-weight: normal;&#13;
+    margin-bottom: 10px;&#13;
+  }&#13;
+  dd {&#13;
+    margin-bottom: 10px;&#13;
+  }&#13;
+}&#13;
+&#13;
+@media print&#13;
+&#13;
+{    &#13;
+  .no-print, .no-print *&#13;
+  {&#13;
+    display: none !important;&#13;
+  }&#13;
+}&#13;
+&#13;
+table, td {&#13;
+  border-color:#000;&#13;
+  border-style:solid;&#13;
+}&#13;
+&#13;
+table {&#13;
+  border-collapse:collapse;&#13;
+  border-spacing:0;&#13;
+  border-width:0 0 1px 1px;&#13;
+  margin-top:14px;&#13;
+}&#13;
+&#13;
+td {&#13;
+  border-width:1px 1px 0 0;&#13;
+  margin:0;&#13;
+  padding:4px;&#13;
+  vertical-align:bottom;&#13;
+}&#13;
+&#13;
+table.borderless, table.borderless td {&#13;
+  border:0px;&#13;
+  border-style:none;&#13;
+}&#13;
+&#13;
+table.borderAroundMe {&#13;
+  border:1px;&#13;
+  border-style:solid;&#13;
+&#13;
+}&#13;
+&#13;
+td.header {&#13;
+  background-color:#a7a7a7 !important; &#13;
+  color:#fff !important;&#13;
+  font-weight:bold;&#13;
+&#13;
+}&#13;
+&#13;
+br.page-break {&#13;
+  display:block;&#13;
+  page-break-before:always;&#13;
+}&#13;
+&#13;
+table &#13;
+  &#13;
+&#13;
+&#13;
+tr {&#13;
+  page-break-inside:avoid;&#13;
+  page-break-after:auto&#13;
+}&#13;
+&#13;
+td {&#13;
+  page-break-inside:avoid;&#13;
+  page-break-after:auto&#13;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>print2</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) { 
+
+ }]]></link>
+        <name>Print Page</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+	data.sys_id = $sp.getParameter("sys_id");
+	data.table = $sp.getParameter("table_name");
+	var gr = new GlideRecord(data.table);
+	gr.get(data.sys_id);
+
+	//var gr = $sp.getRecord();
+	if (gr == null)
+		return;
+
+	data.canRead = gr.canRead();
+	if (!data.canRead) 
+		return;
+
+	var fields = $sp.getFields(gr, 'number,caller,category,subcategory,service,cmdb_ci,contact_type,state, impact,urgency,priority,assignment_group,assigned_to,problem_id,rfc,caused_by,sys_created_on,sys_updated_on,short_description,description,close_code,close_notes');
+	
+	//if (gr.getValue("sys_mod_count") > 0)
+	//	fields.push($sp.getField(gr, 'sys_updated_on'));
+
+	data.number = $sp.getField(gr, 'number').display_value;
+	data.short_description = $sp.getField(gr, 'short_description').display_value;
+	data.tableLabel = gr.getLabel();
+	data.fields = fields;
+	data.variables = new GlobalServiceCatalogUtil().getVariablesForTask(gr, true);
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>andrew.irwin@accenture.com</sys_created_by>
+        <sys_created_on>2023-07-21 18:44:12</sys_created_on>
+        <sys_id>38c8b2a31b4c3d50aba7639ce54bcbc1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Print Page</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sp_widget_38c8b2a31b4c3d50aba7639ce54bcbc1</sys_update_name>
+        <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-07-21 18:55:18</sys_updated_on>
+        <template><![CDATA[<div>
+  <div class="text-right no-print">
+    <button class="btn btn-primary pull-right" type="submit" onclick="javascript: window.print();">
+      <div class="fa fa-print"></div>
+      <span>Click to Print</span>
+    </button>
+  </div>
+  <table class="borderless">
+    <tr>
+      <td><h3 class="panel-body" style="cursor: default"> Detail</h3></td>
+    </tr>
+  </table>
+  <div class="panel panel- b" >
+    <div class="panel-heading">
+      <h4 class="panel-title" style="cursor: default"> - </h4> 
+    </div>
+    <div class="panel-body">
+      <dl class="ticket-fields" ng-if="data.fields.length > 0">
+        <dt class= "col-md-6 col-sm-12 col-xs-6 break-word" 
+            ng-if="field.value && (field.type != 'decimal' || field.type == 'decimal' && field.value != 0)" 
+            ng-repeat-start="field in data.fields"></dt>
+        <dd class= "col-md-6 col-sm-12 col-xs-6 break-word" 
+            ng-repeat-end ng-switch="field.type" 
+            ng-if="field.value && (field.type != 'decimal' || field.type == 'decimal' && field.value != 0)">
+          <div ng-switch-when="glide_date_time" title="">
+            <sn-time-ago timestamp="::field.value" />
+          </div>
+          <div ng-switch-default ></div>
+        </dd>
+      </dl>
+      <div ng-if="data.variables.length > 0" ng-init="c.variable_toggle = true">
+        <button class="h4 options-btn btn" ng-click="c.variable_toggle = !c.variable_toggle" aria-expanded="" aria-controls="variables-toggle">
+          <span style="font-size: 12px;" class="glyphicon" ng-class="c.variable_toggle ? 'glyphicon-chevron-down' : 'glyphicon-chevron-up'"></span>
+          $
+        </button>
+
+        <div ng-if="c.variable_toggle" id="variables-toggle" aria-hidden="">
+          <hr role="presentation">
+          <div class="m-b break-word" ng-repeat="variable in data.variables | filter:">
+            <label class="m-t-xs m-b-none text-muted"><b></b></label>
+            <div ng-if="!variable.multi_row"><span class="pre-wrap"></span></div>
+            <div ng-if="variable.multi_row">
+              <a href="javascript:void(0)" uib-popover-template="'sp_multirow_vs_summarizer.html'" popover-title=""
+                 popover-placement="auto left" popover-append-to-body="true" popover-trigger="outsideClick">${Click to view}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

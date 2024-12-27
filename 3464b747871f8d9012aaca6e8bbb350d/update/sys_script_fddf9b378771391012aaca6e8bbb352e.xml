@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>false</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_amspe_au_finan_0_tetris</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_amspe_au_finan_0_tetris">validations_successfully_completed=Yes^fiscal_period=93b1c2378750fd9012aaca6e8bbb35aa^fiscal_month=8db64d291b203110aba7639ce54bcb94^NQvalidations_successfully_completed=Yes^fiscal_period=0db64d291b203110aba7639ce54bcb96^fiscal_month=c5b64d291b203110aba7639ce54bcb95^NQvalidations_successfully_completed=Yes^fiscal_period=cdb64d291b203110aba7639ce54bcb96^fiscal_month=01b64d291b203110aba7639ce54bcb96^NQvalidations_successfully_completed=Yes^fiscal_period=81b64d291b203110aba7639ce54bcb97^fiscal_month=49b64d291b203110aba7639ce54bcb96^EQ<item display_value="Yes" endquery="false" field="validations_successfully_completed" goto="false" newquery="false" operator="=" or="false" value="Yes"/>
+            <item display_table="x_amspe_au_finan_0_reporting_period" display_value="Q1" endquery="false" field="fiscal_period" goto="false" newquery="false" operator="=" or="false" value="93b1c2378750fd9012aaca6e8bbb35aa"/>
+            <item display_table="x_amspe_au_finan_0_reporting_period" display_value="November" endquery="false" field="fiscal_month" goto="false" newquery="false" operator="=" or="false" value="8db64d291b203110aba7639ce54bcb94"/>
+            <item display_value="Yes" endquery="false" field="validations_successfully_completed" goto="false" newquery="true" operator="=" or="false" value="Yes"/>
+            <item display_table="x_amspe_au_finan_0_reporting_period" display_value="Q2" endquery="false" field="fiscal_period" goto="false" newquery="false" operator="=" or="false" value="0db64d291b203110aba7639ce54bcb96"/>
+            <item display_table="x_amspe_au_finan_0_reporting_period" display_value="February" endquery="false" field="fiscal_month" goto="false" newquery="false" operator="=" or="false" value="c5b64d291b203110aba7639ce54bcb95"/>
+            <item display_value="Yes" endquery="false" field="validations_successfully_completed" goto="false" newquery="true" operator="=" or="false" value="Yes"/>
+            <item display_table="x_amspe_au_finan_0_reporting_period" display_value="Q3" endquery="false" field="fiscal_period" goto="false" newquery="false" operator="=" or="false" value="cdb64d291b203110aba7639ce54bcb96"/>
+            <item display_table="x_amspe_au_finan_0_reporting_period" display_value="May" endquery="false" field="fiscal_month" goto="false" newquery="false" operator="=" or="false" value="01b64d291b203110aba7639ce54bcb96"/>
+            <item display_value="Yes" endquery="false" field="validations_successfully_completed" goto="false" newquery="true" operator="=" or="false" value="Yes"/>
+            <item display_table="x_amspe_au_finan_0_reporting_period" display_value="Q4" endquery="false" field="fiscal_period" goto="false" newquery="false" operator="=" or="false" value="81b64d291b203110aba7639ce54bcb97"/>
+            <item display_table="x_amspe_au_finan_0_reporting_period" display_value="August" endquery="false" field="fiscal_month" goto="false" newquery="false" operator="=" or="false" value="49b64d291b203110aba7639ce54bcb96"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Set up Approver Last Month Period</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+	
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2023-10-17 16:03:30</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>fddf9b378771391012aaca6e8bbb352e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Set up Approver Last Month Period</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_script_fddf9b378771391012aaca6e8bbb352e</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-17 23:51:00</sys_updated_on>
+        <template>approver_id=25cd6116dbbd7a00b0b57b7e0f961958^EQ</template>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=fddf9b378771391012aaca6e8bbb352e"/>
+</record_update>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_tetris" version="2" view="RPT154cb22a1b487550aba7639ce54bcb4c">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>14f424131b0df590aba7639ce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>94f424131b0df590aba7639ce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>18f424131b0df590aba7639ce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>98f424131b0df590aba7639ce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>market</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>1cf424131b0df590aba7639ce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requester</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>9cf424131b0df590aba7639ce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>10f424131b0df590aba7639ce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>business_case</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>90f424131b0df590aba7639ce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>14f424131b0df590aba7639ce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>completion_date</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>94f424131b0df590aba7639ce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>18f424131b0df590aba7639ce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_id>98f424131b0df590aba7639ce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_amspe_au_finan_0_tetris</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 06:20:57</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>58f424131b0df590aba7639ce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_amspe_au_finan_0_tetris</sys_name>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_ui_list_x_amspe_au_finan_0_tetris_RPT154cb22a1b487550aba7639ce54bcb4c_774190f01f1310005a3637b8ec8b70ef</sys_update_name>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 06:20:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt154cb22a1b487550aba7639ce54bcb4c" name="RPT154cb22a1b487550aba7639ce54bcb4c">605698c08734bd1012aaca6e8bbb35a2</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</application>
+        <file_path/>
+        <instance_id>d4f8d0ef9b9acb08bb2e6b8af359ff79</instance_id>
+        <instance_name>ecosystemsdev</instance_name>
+        <name>sys_ui_list_x_amspe_au_finan_0_tetris_RPT154cb22a1b487550aba7639ce54bcb4c_774190f01f1310005a3637b8ec8b70ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_tetris" version="2" view="RPT154cb22a1b487550aba7639ce54bcb4c"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>14f424131b0df590aba7639ce54bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>active</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>94f424131b0df590aba7639ce54bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>state</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>18f424131b0df590aba7639ce54bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>client</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>98f424131b0df590aba7639ce54bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>market</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>1cf424131b0df590aba7639ce54bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>requester</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>9cf424131b0df590aba7639ce54bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>assigned_to</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>10f424131b0df590aba7639ce54bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>business_case</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>90f424131b0df590aba7639ce54bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_class_name</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>14f424131b0df590aba7639ce54bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>completion_date</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>9</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>94f424131b0df590aba7639ce54bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>10</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>18f424131b0df590aba7639ce54bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_by</element><list_id display_value="x_amspe_au_finan_0_tetris" element="NULL" name="x_amspe_au_finan_0_tetris" parent="NULL" relationship="NULL" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="605698c08734bd1012aaca6e8bbb35a2">58f424131b0df590aba7639ce54bcbe3</list_id><max_value>false</max_value><min_value>false</min_value><position>11</position><sum>false</sum><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_id>98f424131b0df590aba7639ce54bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_amspe_au_finan_0_tetris</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2023-09-08 06:20:57</sys_created_on><sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain><sys_domain_path>!!!/</sys_domain_path><sys_id>58f424131b0df590aba7639ce54bcbe3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_amspe_au_finan_0_tetris</sys_name><sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package><sys_policy/><sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope><sys_update_name>sys_ui_list_x_amspe_au_finan_0_tetris_RPT154cb22a1b487550aba7639ce54bcb4c_774190f01f1310005a3637b8ec8b70ef</sys_update_name><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2023-09-08 06:20:57</sys_updated_on><sys_user/><view display_value="Rpt154cb22a1b487550aba7639ce54bcb4c" name="RPT154cb22a1b487550aba7639ce54bcb4c">605698c08734bd1012aaca6e8bbb35a2</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>365493930</payload_hash>
+        <record_name>TETRIS</record_name>
+        <reverted_from/>
+        <source>bc42ad361b893590aba7639ce54bcb8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-09-08 06:20:58</sys_created_on>
+        <sys_id>50f424131b0df590aba7639ce54bcbe9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a737369410000001</sys_recorded_at>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-09-08 06:20:58</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>d4f424139a0df590e829261bebf622e8</update_guid>
+        <update_guid_history>d4f424139a0df590e829261bebf622e8:365493930,4eb4acdfedc9f5903a177f4aa33fa6a6:-1511190562,818bd8133bc9f590c129b1e4bf1111f6:1035907390,2c5698c09f34bd107dcdaef5621f21d0:1036611254,6d3884b16d207110bd2da2e52e5fee37:81871057,6d4cf62aa44875504f8266560e0b8cf9:-124737667</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-13 03:07:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>31cf251687754330a301b68f64e74e19</sys_id>
+        <sys_metadata>58f424131b0df590aba7639ce54bcbe3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_amspe_au_finan_0_tetris</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_parent display_value="TETRIS">e065f3cb871f8d9012aaca6e8bbb3568</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_scope_delete display_value="">3416ead7f0ba491ea06a38b206ad8344</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_amspe_au_finan_0_tetris_RPT154cb22a1b487550aba7639ce54bcb4c_774190f01f1310005a3637b8ec8b70ef</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_amspe_au_finan_0_tetris_RPT154cb22a1b487550aba7639ce54bcb4c_774190f01f1310005a3637b8ec8b70ef">50f424131b0df590aba7639ce54bcbe9</sys_update_version>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-13 03:07:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

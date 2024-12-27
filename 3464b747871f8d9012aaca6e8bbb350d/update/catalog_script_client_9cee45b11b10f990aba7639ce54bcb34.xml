@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>true</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Tetris">f7894f47876415d03e7987fc8bbb356c</cat_item>
+        <cat_variable>IO:eee6ca45873c11143e7987fc8bbb35e8</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>% ESD Calculation</name>
+        <order>10</order>
+        <published_ref/>
+        <script><![CDATA[function onSubmit() {
+
+    var req_type = g_form.getValue('request_type');
+    var esd_split = g_form.getValue('add_esd_split');
+    var new_esd_split = g_form.getValue('add_new_esd_split');
+    var a = g_form.getValue('percentage_esd_1');
+    var b = g_form.getValue('percentage_esd_2');
+    var c = g_form.getValue('percentage_esd_3');
+
+    var aa = parseInt(a);
+    var ab = parseInt(a) + parseInt(b);
+    var abc = parseInt(a) + parseInt(b) + parseInt(c);
+
+    if ((req_type == 'Accenture ESD Change Request' || req_type == 'Avanade ESD Change Request') && esd_split == 'false' && new_esd_split == 'false') {
+        if ((aa < 100) || (aa > 100)) {
+            g_form.addErrorMessage('% ESD value should not be more or less than 100%');
+            return false;
+        }
+    }
+    if ((req_type == 'Accenture ESD Change Request' || req_type == 'Avanade ESD Change Request') && esd_split == 'true' && new_esd_split == 'false') {
+        if ((ab < 100) || (ab > 100)) {
+            g_form.addErrorMessage('% ESD and % ESD 2 value should not be more or less than 100%');
+            return false;
+        }
+    }
+    if ((req_type == 'Accenture ESD Change Request' || req_type == 'Avanade ESD Change Request') && esd_split == 'true' && new_esd_split == 'true') {
+        if ((abc < 100) || (abc > 100)) {
+            g_form.addErrorMessage('% ESD, % ESD 2 and % ESD 3 value should not be more or less than 100%');
+            return false;
+        }
+    }
+
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>nagaraja.hosamani@accenture.com</sys_created_by>
+        <sys_created_on>2023-07-28 10:59:06</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>9cee45b11b10f990aba7639ce54bcb34</sys_id>
+        <sys_mod_count>29</sys_mod_count>
+        <sys_name>% ESD Calculation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_script_client_9cee45b11b10f990aba7639ce54bcb34</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-26 21:03:10</sys_updated_on>
+        <table/>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <va_supported>true</va_supported>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

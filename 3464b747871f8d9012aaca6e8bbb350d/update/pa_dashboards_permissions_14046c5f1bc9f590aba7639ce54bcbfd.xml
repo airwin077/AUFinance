@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="ESS &amp; TETRIS Dashboard">8a5f48c11b8cf910aba7639ce54bcbd9</dashboard>
+        <delete>false</delete>
+        <group display_value="AU Finance Forms Reports" name="AU Finance Forms Reports">f52554971b89f590aba7639ce54bcbd2</group>
+        <identity>f52554971b89f590aba7639ce54bcbd2</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-09-08 06:16:52</sys_created_on>
+        <sys_id>14046c5f1bc9f590aba7639ce54bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f52554971b89f590aba7639ce54bcbd2</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_14046c5f1bc9f590aba7639ce54bcbfd</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-09-08 06:16:52</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>do_you_need_to_add_an_esd_2</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-11 17:09:32</sys_created_on>
+        <sys_id>ef843713c3deded0e286d9bc7a013198</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>do_you_need_to_add_an_esd_2</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ef843713c3deded0e286d9bc7a013198</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-11 17:09:32</sys_updated_on>
+        <table>x_amspe_au_finan_0_aess</table>
+        <ui_policy display_value="esd_2 and add_esd2 become visible when ¿Do you need to add an ESD? is true">75c33b9fc39eded0e286d9bc7a0131aa</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</application>
+        <file_path/>
+        <instance_id>d4f8d0ef9b9acb08bb2e6b8af359ff79</instance_id>
+        <instance_name>ecosystemsdev</instance_name>
+        <name>sys_ui_policy_action_ef843713c3deded0e286d9bc7a013198</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>do_you_need_to_add_an_esd_2</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by><sys_created_on>2024-12-11 17:09:32</sys_created_on><sys_id>ef843713c3deded0e286d9bc7a013198</sys_id><sys_mod_count>0</sys_mod_count><sys_name>do_you_need_to_add_an_esd_2</sys_name><sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package><sys_policy/><sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope><sys_update_name>sys_ui_policy_action_ef843713c3deded0e286d9bc7a013198</sys_update_name><sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by><sys_updated_on>2024-12-11 17:09:32</sys_updated_on><table>x_amspe_au_finan_0_aess</table><ui_policy display_value="esd_2 and add_esd2 become visible when ¿Do you need to add an ESD? is true">75c33b9fc39eded0e286d9bc7a0131aa</ui_policy><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>989117846</payload_hash>
+        <record_name>do_you_need_to_add_an_esd_2</record_name>
+        <reverted_from/>
+        <source>a52a5363c351d650e286d9bc7a0131c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-11 17:09:32</sys_created_on>
+        <sys_id>e1b43b9fc39eded0e286d9bc7a01312a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193b6b281a30000001</sys_recorded_at>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-11 17:09:32</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>a5b43b9f979eded0303d520cf7f05a29</update_guid>
+        <update_guid_history>a5b43b9f979eded0303d520cf7f05a29:989117846</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-11 19:17:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>0d3333315ff44afc814a43403759eb90</sys_id>
+        <sys_metadata>ef843713c3deded0e286d9bc7a013198</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>do_you_need_to_add_an_esd_2</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_parent display_value="Display esd_2 and add_esd2 become visible ">75c33b9fc39eded0e286d9bc7a0131aa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_scope_delete display_value="">3416ead7f0ba491ea06a38b206ad8344</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_ef843713c3deded0e286d9bc7a013198</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_ef843713c3deded0e286d9bc7a013198">e1b43b9fc39eded0e286d9bc7a01312a</sys_update_version>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-11 19:17:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

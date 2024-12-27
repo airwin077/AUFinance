@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Tetris">f7894f47876415d03e7987fc8bbb356c</cat_item>
+        <cat_variable>IO:5bc660818774ad1012aaca6e8bbb35d1</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Fiscal Month End Quarter Alert</name>
+        <order>10</order>
+        <published_ref/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+   if (isLoading || newValue == '') {
+      return;
+   }
+  
+	var value=g_form.getValue('fiscal_month');
+	if(value=="c5b64d291b203110aba7639ce54bcb95"||value=="01b64d291b203110aba7639ce54bcb96"||value=="49b64d291b203110aba7639ce54bcb96"||value=="8db64d291b203110aba7639ce54bcb94"){
+				
+		//February
+		//May 
+		//August
+		//November 8db64d291b203110aba7639ce54bcb94
+		
+	alert('Further approval is required for your request, remember to attach the Market Lead approval before submitting the request');
+//top.window.open("https://ts.accenture.com/sites/LegalTechnology/Site%20Pages/AP81%203PC%20Portal%20Landing%20Page.aspx");
+		}
+else return;	   
+
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2023-08-10 12:47:45</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>6705244e87a4b11012aaca6e8bbb3569</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Fiscal Month End Quarter Alert</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_script_client_6705244e87a4b11012aaca6e8bbb3569</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-08-10 16:57:14</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <va_supported>true</va_supported>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

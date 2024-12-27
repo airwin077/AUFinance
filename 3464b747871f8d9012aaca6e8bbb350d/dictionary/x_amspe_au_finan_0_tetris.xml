@@ -1,101 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="e065f3cb871f8d9012aaca6e8bbb3568" label="TETRIS" max_length="40" name="x_amspe_au_finan_0_tetris" type="collection">
-        <element label="Active" max_length="40" name="active" read_only="true" type="boolean"/>
-        <element choice="1" label="Approval Status" max_length="40" name="approval_status" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Approved" sequence="10" value="Approved"/>
-                <element inactive_on_update="false" label="Pending Approval" sequence="20" value="Pending Approval"/>
-                <element inactive_on_update="false" label="Rejected" sequence="30" value="Rejected"/>
-            </choice>
-        </element>
-        <element label="Approved/Rejected Date" max_length="40" name="approved_rejected_date" type="glide_date_time"/>
-        <element label="Approver Comments" max_length="500" name="approver_comments" type="string"/>
-        <element label="Approver ID" max_length="32" name="approver_id" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
-        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
-        <element label="Business Case" max_length="1000" name="business_case" type="string"/>
-        <element choice="1" label="Client" max_length="32" name="client" reference="x_amspe_evcm_accenture_clients" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference">
+    <element audit="true" db_object_id="e065f3cb871f8d9012aaca6e8bbb3568" label="TETRIS" max_length="40" name="x_amspe_au_finan_0_tetris" type="collection">
+        <element label="From ESD 2" max_length="32" name="from_esd_2" reference="sys_user" reference_qual="u_esd=true^EQ" reference_qual_condition="u_esd=true^EQ" type="reference"/>
+        <element label="Fiscal Quarter" max_length="32" name="fiscal_period" reference="x_amspe_au_finan_0_reporting_period" reference_qual="period_type=Fiscal Period^EQ" reference_qual_condition="period_type=Fiscal Period^EQ" type="reference"/>
+        <element attributes="ref_contributions=linkGeneratorBtn" label="Client" max_length="32" name="client" reference="x_amspe_au_finan_0_master_client" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element choice="1" default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested" max_length="32" name="requester" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference" use_dynamic_default="true">
             <choice/>
         </element>
+        <element label="Finance Comments" max_length="500" name="finance_comments" type="journal"/>
+        <element choice="1" default="New" label="State" max_length="100" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="InProgress" sequence="200" value="In Progress"/>
+                <element inactive_on_update="false" label="New" sequence="100" value="New"/>
+                <element inactive_on_update="false" label="Processed in DRDR" sequence="600" value="Processed in DRDR"/>
+                <element inactive_on_update="false" label="On-Hold" sequence="300" value="On-Hold"/>
+                <element inactive_on_update="false" label="Rejected" sequence="450" value="Rejected"/>
+                <element inactive_on_update="false" label="Approved" sequence="400" value="Approved"/>
+            </choice>
+        </element>
+        <element label="From ESD 3" max_length="32" name="from_esd_3" reference="sys_user" reference_qual="u_esd=true^EQ" reference_qual_condition="u_esd=true^EQ" type="reference"/>
+        <element label="Add New ESD Split" max_length="40" name="add_new_esd_split" type="boolean"/>
+        <element label="Local Currency" max_length="32" name="currency" reference="fx_currency" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element label="Completion Date" max_length="40" name="completion_date" type="glide_date"/>
-        <element label="Finance Comments" max_length="500" name="finance_comments" type="string"/>
-        <element label="Finance ID" max_length="40" name="finance_id" type="string"/>
-        <element choice="1" label="fiscal_month" max_length="32" name="fiscal_month" reference="u_accenture_fiscal_month" reference_qual="sys_created_onANYTHING^EQ" reference_qual_condition="sys_created_onANYTHING^EQ" type="reference">
-            <choice/>
-        </element>
-        <element label="Fiscal Period" max_length="32" name="fiscal_period" reference="fiscal_period" reference_qual="open=true^EQ" reference_qual_condition="open=true^EQ" type="reference"/>
-        <element choice="1" label="Fiscal Year" max_length="32" name="fiscal_year" reference="x_amspe_au_finan_0_reporting_period" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference">
-            <choice/>
-        </element>
-        <element label="From ESD" max_length="32" name="from_esd" reference="sys_user" reference_qual="u_esd=true^EQ" reference_qual_condition="u_esd=true^EQ" type="reference"/>
-        <element label="From Manufacturer - Ref" max_length="32" name="from_manufacturer_ref" reference="u_ecosystem_manufacturers" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
-        <element choice="1" label="From Option" max_length="32" name="from_option" type="glide_list">
-            <choice>
-                <element inactive_on_update="false" label="N/A" sequence="1" value="N/A"/>
-                <element inactive_on_update="false" label="TBD" sequence="2" value="TBD"/>
-                <element inactive_on_update="false" label="Select ESD" sequence="3" value="Select ESD"/>
-            </choice>
-        </element>
-        <element label="From Vendor/Distributor" max_length="32" name="from_vendor_distributor" reference="u_ecosystem_vendors" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
-        <element label="Local Currency Revenue" max_length="40" name="local_currency_revenue" type="price"/>
+        <element label="New Master Client Name" max_length="150" name="new_master_client_name" type="string"/>
+        <element label="Percentage ESD 3" max_length="5" name="percentage_esd_3" type="integer"/>
+        <element label="WBSE" max_length="40" name="wbse" type="string"/>
         <element choice="1" label="Market" max_length="32" name="market" reference="u_ecosystem_markets" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference">
             <choice/>
         </element>
-        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Request ID" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="To Manufacturer" max_length="32" name="to_manufacturer" reference="u_ecosystem_manufacturers" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
+        <element label="From Vendor/Distributor" max_length="32" name="from_vendor_distributor" reference="u_ecosystem_vendors" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
+        <element label="Requested For" max_length="32" name="requested_for" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Approved/Rejected Date" max_length="40" name="approved_rejected_date" type="glide_date_time"/>
+        <element label="Finance ID" max_length="40" name="finance_id" type="string"/>
+        <element label="To ESD 2" max_length="32" name="to_esd_2" reference="sys_user" reference_qual="u_esd=true^EQ" reference_qual_condition="u_esd=true^EQ" type="reference"/>
         <element choice="1" label="Operating Group" max_length="40" name="operating_group" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Communications Media &amp; Technology" sequence="10" value="Communications Media &amp; Technology"/>
+                <element inactive_on_update="false" label="Products" sequence="40" value="Products"/>
                 <element inactive_on_update="false" label="Financial Services" sequence="20" value="Financial Services"/>
+                <element inactive_on_update="false" label="Communications Media &amp; Technology" sequence="10" value="Communications Media &amp; Technology"/>
+                <element inactive_on_update="false" label="Resources" sequence="50" value="Resources"/>
                 <element inactive_on_update="false" label="Health &amp; Public Service" sequence="30" value="Health &amp; Public Service"/>
-                <element inactive_on_update="false" label="Health &amp; Public Service - State &amp; Local, Products" sequence="40" value="Health &amp; Public Service - State &amp; Local, Products"/>
-                <element inactive_on_update="false" label="Products" sequence="50" value="Products"/>
-                <element inactive_on_update="false" label="Resources" sequence="60" value="Resources"/>
             </choice>
         </element>
-        <element label="Related Request ID" max_length="40" name="related_request_id" type="string"/>
-        <element choice="1" default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested For" max_length="32" name="requester" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference" use_dynamic_default="true">
-            <choice/>
-        </element>
-        <element label="Requester Comments" max_length="500" name="requester_comments" type="string"/>
-        <element choice="1" label="Request Type" max_length="40" name="request_type" type="choice">
+        <element label="Comments (Customer Visible)" max_length="500" name="requester_comments" type="journal"/>
+        <element choice="1" label="Approval Status" max_length="40" name="approval_status" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Accenture ASD Change Request" sequence="10" value="Accenture ASD Change Request"/>
-                <element inactive_on_update="false" label="Avanade ASD Change Request" sequence="20" value="Avanade ASD Change Request"/>
-                <element inactive_on_update="false" label="Vendor/Manufacturer" sequence="30" value="Vendor/Manufacturer"/>
-            </choice>
-        </element>
-        <element choice="1" display="true" label="State" max_length="100" name="state" type="choice">
-            <choice>
+                <element inactive_on_update="false" label="Requested" sequence="1" value="Requested"/>
+                <element inactive_on_update="false" label="Rejected" sequence="30" value="Rejected"/>
+                <element inactive_on_update="false" label="Pending Approval" sequence="20" value="Pending Approval"/>
                 <element inactive_on_update="false" label="Approved" sequence="10" value="Approved"/>
-                <element inactive_on_update="false" label="InProgress" sequence="20" value="In Progress"/>
-                <element inactive_on_update="false" label="On-Hold" sequence="30" value="On-Hold"/>
-                <element inactive_on_update="false" label="Processed in DRDR" sequence="40" value="Processed in DRDR"/>
-                <element inactive_on_update="false" label="Rejected" sequence="50" value="Rejected"/>
+            </choice>
+        </element>
+        <element label="From Manufacturer - Ref" max_length="32" name="from_manufacturer_ref" reference="u_ecosystem_manufacturers" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
+        <element label="Approver Comments" max_length="500" name="approver_comments" type="journal"/>
+        <element label="Fiscal Year" max_length="32" name="fiscal_year" reference="x_amspe_au_finan_0_reporting_period" reference_qual="period_type=Fiscal Year^nameSTARTSWITHFY2024^EQ" reference_qual_condition="period_type=Fiscal Year^nameSTARTSWITHFY2024^EQ" type="reference"/>
+        <element label="Admin Overrite" max_length="32" name="admin_overrite" type="boolean"/>
+        <element label="Booking ID" max_length="40" name="related_request_id" type="string"/>
+        <element default="USD;'';" label="USD Revenue Amount" max_length="40" name="usd_revenue_amout" type="price"/>
+        <element label="Watch List" max_length="32" name="watch_list" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="glide_list"/>
+        <element choice="1" label="From Option" max_length="32" name="from_option" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="TBD" sequence="3" value="TBD"/>
+                <element inactive_on_update="false" label="Select ESD" sequence="4" value="Select ESD"/>
+                <element inactive_on_update="false" label="N/A" sequence="2" value="N/A"/>
+                <element inactive_on_update="false" label="None" sequence="1" value="None"/>
+            </choice>
+        </element>
+        <element label="To ESD 3" max_length="32" name="to_esd_3" reference="sys_user" reference_qual="u_esd=true^EQ" reference_qual_condition="u_esd=true^EQ" type="reference"/>
+        <element label="Title" max_length="120" name="title" type="string"/>
+        <element label="Global Lead Approver" max_length="32" name="global_lead_approver" reference="sys_user" type="reference"/>
+        <element label="Add ESD Split" max_length="40" name="add_esd_split" type="boolean"/>
+        <element label="Bulk load record" max_length="10" name="bulk_load_record" type="boolean"/>
+        <element attributes="ref_contributions=add_me," label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Fiscal Month" max_length="32" name="fiscal_month" reference="x_amspe_au_finan_0_reporting_period" reference_qual="period_type=Fiscal Month^EQ" reference_qual_condition="period_type=Fiscal Month^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="4000" name="work_notes" type="journal"/>
+        <element choice="1" label="To Option" max_length="40" name="to_option" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="None" sequence="1" value="None"/>
+                <element inactive_on_update="false" label="N/A" sequence="2" value="N/A"/>
+                <element inactive_on_update="false" label="Select ESD" sequence="3" value="Select ESD"/>
+            </choice>
+        </element>
+        <element label="From ESD" max_length="32" name="from_esd" reference="sys_user" reference_qual="u_esd=true^EQ" reference_qual_condition="u_esd=true^EQ" type="reference"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element default="1" label="Percentage ESD 2" max_length="5" name="percentage_esd_2" type="integer"/>
+        <element label="To ESD" max_length="32" name="to_esd" reference="sys_user" reference_qual="u_esd=true^EQ" reference_qual_condition="u_esd=true^EQ" type="reference"/>
+        <element label="Approver ID" max_length="32" name="approver_id" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Master Client Not Found" max_length="10" name="master_client_not_found" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Validations successfully completed?" max_length="40" name="validations_successfully_completed" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="200" value="No"/>
             </choice>
         </element>
         <element choice="1" label="Status" max_length="40" name="status" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Draft" sequence="100" value="Draft"/>
-                <element inactive_on_update="false" label="In Review" sequence="200" value="In Review"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="500" value="Cancelled"/>
                 <element inactive_on_update="false" label="Submitted" sequence="300" value="Submitted"/>
                 <element inactive_on_update="false" label="Completed" sequence="400" value="Completed"/>
-                <element inactive_on_update="false" label="Cancelled" sequence="500" value="Cancelled"/>
                 <element inactive_on_update="false" label="On Hold" sequence="600" value="On Hold"/>
                 <element inactive_on_update="false" label="Processed in DRDR" sequence="700" value="Processed in DRDR"/>
+                <element inactive_on_update="false" label="In Review" sequence="200" value="In Review"/>
             </choice>
         </element>
-        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
-        <element label="Title" max_length="120" name="title" type="string"/>
-        <element label="To ESD" max_length="32" name="to_esd" reference="sys_user" reference_qual="u_esd=true^EQ" reference_qual_condition="u_esd=true^EQ" type="reference"/>
-        <element label="To Manufacturer" max_length="32" name="to_manufacturer" reference="u_ecosystem_manufacturers" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
-        <element choice="1" label="To Option" max_length="40" name="to_option" type="choice">
+        <element choice="1" label="Request Type" max_length="40" name="request_type" type="choice">
             <choice>
-                <element inactive_on_update="false" label="N/A" sequence="1" value="N/A"/>
-                <element inactive_on_update="false" label="Select ESD" sequence="2" value="Select ESD"/>
+                <element inactive_on_update="false" label="Vendor/Manufacturer" sequence="30" value="Vendor/Manufacturer"/>
+                <element inactive_on_update="false" label="Bulk Load" sequence="40" value="Bulk Load"/>
+                <element inactive_on_update="false" label="Accenture ESD Change Request" sequence="10" value="Accenture ESD Change Request"/>
+                <element inactive_on_update="false" label="Avanade ESD Change Request" sequence="20" value="Avanade ESD Change Request"/>
             </choice>
+        </element>
+        <element label="Percentage ESD 1" max_length="5" name="percentage_esd_1" type="integer"/>
+        <element attributes="format=none" label="New Master Client SAP ID" max_length="32" name="new_master_client_sap_id" type="integer"/>
+        <element label="Local Currency Revenue Amount" max_length="40" name="local_currency_revenue" type="price"/>
+        <element label="Business Case" max_length="1000" name="business_case" type="string"/>
+        <element label="Parent" max_length="32" name="parent" type="string"/>
+        <element choice="1" label="Market Unit" max_length="32" name="market_unit" reference="u_ecosystem_market_units" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference">
+            <choice/>
         </element>
         <element label="To Vendor/Distributor" max_length="32" name="to_vendor_distributor" reference="u_ecosystem_vendors" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
-        <element label="USD Revenue Amount" max_length="40" name="usd_revenue_amout" type="price"/>
-        <element label="WBSE" max_length="40" name="wbse" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Request ID" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="Market Unit Approver" max_length="32" name="market_unit_approver" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="approver_id"/>
         </index>
@@ -106,37 +133,70 @@
             <element name="client"/>
         </index>
         <index name="index4">
-            <element name="fiscal_period"/>
+            <element name="currency"/>
         </index>
         <index name="index5">
-            <element name="fiscal_year"/>
+            <element name="fiscal_month"/>
         </index>
         <index name="index6">
-            <element name="from_esd"/>
+            <element name="fiscal_period"/>
         </index>
         <index name="index7">
-            <element name="from_manufacturer_ref"/>
+            <element name="fiscal_year"/>
         </index>
         <index name="index8">
-            <element name="from_vendor_distributor"/>
+            <element name="from_esd"/>
         </index>
         <index name="index9">
-            <element name="market"/>
+            <element name="from_esd_2"/>
         </index>
         <index name="index10">
-            <element name="requester"/>
+            <element name="from_esd_3"/>
         </index>
         <index name="index11">
-            <element name="sys_class_name"/>
+            <element name="from_manufacturer_ref"/>
         </index>
         <index name="index12">
-            <element name="to_esd"/>
+            <element name="from_vendor_distributor"/>
         </index>
         <index name="index13">
-            <element name="to_manufacturer"/>
+            <element name="global_lead_approver"/>
         </index>
         <index name="index14">
+            <element name="market"/>
+        </index>
+        <index name="index15">
+            <element name="market_unit"/>
+        </index>
+        <index name="index16">
+            <element name="market_unit_approver"/>
+        </index>
+        <index name="index17">
+            <element name="requested_for"/>
+        </index>
+        <index name="index18">
+            <element name="requester"/>
+        </index>
+        <index name="index19">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index20">
+            <element name="to_esd"/>
+        </index>
+        <index name="index21">
+            <element name="to_esd_2"/>
+        </index>
+        <index name="index22">
+            <element name="to_esd_3"/>
+        </index>
+        <index name="index23">
+            <element name="to_manufacturer"/>
+        </index>
+        <index name="index24">
             <element name="to_vendor_distributor"/>
+        </index>
+        <index name="index25">
+            <element name="watch_list"/>
         </index>
     </element>
 </database>

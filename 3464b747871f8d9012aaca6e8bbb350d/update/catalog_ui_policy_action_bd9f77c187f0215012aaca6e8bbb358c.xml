@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:949ff3c187f0215012aaca6e8bbb3512</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2023-02-02 16:03:05</sys_created_on>
+        <sys_id>bd9f77c187f0215012aaca6e8bbb358c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>to_option</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_bd9f77c187f0215012aaca6e8bbb358c</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-02-02 16:03:05</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'to_option' mandatory &amp; visible depending on 'request_type'">f59f77c187f0215012aaca6e8bbb3589</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>to_option</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

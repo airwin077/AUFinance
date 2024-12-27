@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="finance_comments" label="Finance Comments" language="en" table="x_amspe_au_finan_0_aess">
+    <sys_documentation element="finance_comments" label="Comments (customer visible)" language="en" table="x_amspe_au_finan_0_aess">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>finance_comments</element>
             <help/>
             <hint/>
-            <label>Finance Comments</label>
+            <label>Comments (customer visible)</label>
             <language>en</language>
             <name>x_amspe_au_finan_0_aess</name>
-            <plural>Finance Comments</plural>
+            <plural>Comments (customer visible)</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
             <sys_created_on>2022-05-24 14:28:07</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Finance Comments</sys_name>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Comments (customer visible)</sys_name>
             <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
             <sys_policy/>
             <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
             <sys_update_name>sys_documentation_x_amspe_au_finan_0_aess_finance_comments_en</sys_update_name>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-24 14:28:07</sys_updated_on>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 01:46:11</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

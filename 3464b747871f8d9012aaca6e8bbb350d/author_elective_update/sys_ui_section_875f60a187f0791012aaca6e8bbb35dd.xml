@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Manufacturer details" section_id="875f60a187f0791012aaca6e8bbb35dd" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_aess" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>Manufacturer details</caption>
+            <header>false</header>
+            <name>x_amspe_au_finan_0_aess</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-21 10:21:26</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>875f60a187f0791012aaca6e8bbb35dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_amspe_au_finan_0_aess</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_ui_section_875f60a187f0791012aaca6e8bbb35dd</sys_update_name>
+            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-21 10:21:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</application>
+        <file_path/>
+        <instance_id>d4f8d0ef9b9acb08bb2e6b8af359ff79</instance_id>
+        <instance_name>ecosystemsdev</instance_name>
+        <name>sys_ui_section_875f60a187f0791012aaca6e8bbb35dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Manufacturer details" section_id="875f60a187f0791012aaca6e8bbb35dd" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_aess" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Manufacturer details</caption><header>false</header><name>x_amspe_au_finan_0_aess</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>prriyam.chatterji@accenture.com</sys_created_by><sys_created_on>2023-08-21 10:21:26</sys_created_on><sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain><sys_domain_path>!!!/</sys_domain_path><sys_id>875f60a187f0791012aaca6e8bbb35dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_amspe_au_finan_0_aess</sys_name><sys_overrides/><sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package><sys_policy/><sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope><sys_update_name>sys_ui_section_875f60a187f0791012aaca6e8bbb35dd</sys_update_name><sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by><sys_updated_on>2023-08-21 10:21:26</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1910503557</payload_hash>
+        <record_name>EES</record_name>
+        <reverted_from/>
+        <source>a52a5363c351d650e286d9bc7a0131c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-11 13:48:38</sys_created_on>
+        <sys_id>6eb6cfdbc31aded0e286d9bc7a013183</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193b5fa93440000001</sys_recorded_at>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-11 13:48:38</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e2b6cfdb601aded041f84b756b41f983</update_guid>
+        <update_guid_history>e2b6cfdb601aded041f84b756b41f983:-1910503557,aa1e08becd738a10abfa46236ad265df:103774427,2edf2065f3f079100669dc1277ca9acb:1642814739,d57f68a1dcf07910dc497bd62a52fb7e:-1910503557</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-11 13:49:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>76cd1784f742420083d42952ba729000</sys_id>
+        <sys_metadata>875f60a187f0791012aaca6e8bbb35dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manufacturer details</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_parent display_value="EES">d6453b8b871f8d9012aaca6e8bbb35bd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_scope_delete display_value="">3416ead7f0ba491ea06a38b206ad8344</sys_scope_delete>
+        <sys_update_name>sys_ui_section_875f60a187f0791012aaca6e8bbb35dd</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_875f60a187f0791012aaca6e8bbb35dd">6eb6cfdbc31aded0e286d9bc7a013183</sys_update_version>
+        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-11 13:49:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

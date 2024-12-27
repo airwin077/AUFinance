@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="AU Finance Forms">7c6bbf4b87df8d9012aaca6e8bbb35e6</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage display_value="PA Dashboards">067eaea0c730030020508b3c5c9763d2</homepage>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Dashboards</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>90</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://ecosystemsdev.service-now.com/$pa_dashboard.do?sysparm_dashboard=8a5f48c11b8cf910aba7639ce54bcbd9&amp;sysparm_tab=be7f0cc11b8cf910aba7639ce54bcbdb&amp;sysparm_cancelable=true&amp;sysparm_editable=undefined&amp;sysparm_active_panel=false</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>snc_internal</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+        <sys_created_on>2023-07-13 11:52:54</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>971e44411b8cf910aba7639ce54bcb0c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Dashboards</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_app_module_971e44411b8cf910aba7639ce54bcb0c</sys_update_name>
+        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-07-14 11:09:56</sys_updated_on>
+        <timeline_page/>
+        <title>Dashboards</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

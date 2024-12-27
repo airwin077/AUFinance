@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="kagami_csindex_enabled=true,update_synch=true" db_object_id="538f94a7db5203007fee1cd74b9619a3" extends="sys_metadata" label="Assessment Metric Type" max_length="40" name="asmt_metric_type" text_index="true" type="collection">
+        <element hint="Enable survey to use Outlook Actionable Message format in email notifications for supported clients" label="Outlook Actionable Message" max_length="40" name="ms_adaptive_cards" type="boolean"/>
+    </element>
+</database>

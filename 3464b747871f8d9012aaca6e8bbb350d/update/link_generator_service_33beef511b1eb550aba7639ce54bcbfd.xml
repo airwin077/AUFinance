@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="link_generator_service">
+    <link_generator_service action="INSERT_OR_UPDATE">
+        <generated_url>/api/now/generatedlink/getURL?name=new_master_client_new_master_client</generated_url>
+        <link_type>btn_link</link_type>
+        <script><![CDATA[(function(current){
+return '';
+})(current);]]></script>
+        <service_field_name>New Master Client</service_field_name>
+        <sys_class_name>link_generator_service</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2023-11-03 19:17:15</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>33beef511b1eb550aba7639ce54bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new_master_client_new_master_client</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>link_generator_service_33beef511b1eb550aba7639ce54bcbfd</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-11-03 19:17:15</sys_updated_on>
+        <system_name display_value="New Master Client">d33fab911b1eb550aba7639ce54bcb3e</system_name>
+        <value>new_master_client_new_master_client</value>
+    </link_generator_service>
+</record_update>

@@ -9,7 +9,6 @@
         <includes_roles/>
         <limit_concurrent_sessions>false</limit_concurrent_sessions>
         <name>x_amspe_au_finan_0.reporting_period_user</name>
-        <requires_subscription>-1</requires_subscription>
         <scoped_admin>false</scoped_admin>
         <suffix>reporting_period_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>

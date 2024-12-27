@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="EES Request Form">45ce6cf387281d9012aaca6e8bbb35a6</catalog_item>
+        <catalog_variable>IO:a3a1846d87fc95d012aaca6e8bbb352c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>300</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-06 18:06:47</sys_created_on>
+        <sys_id>c771927dc3de12d0e286d9bc7a01319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>manufacturer_4</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c771927dc3de12d0e286d9bc7a01319d</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-06 18:06:47</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Manufacturer 4">b6d09af9c3de12d0e286d9bc7a0131dc</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>manufacturer_4</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

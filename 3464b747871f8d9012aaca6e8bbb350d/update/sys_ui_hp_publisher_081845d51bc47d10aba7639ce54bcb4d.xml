@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher">
+    <sys_ui_hp_publisher action="INSERT_OR_UPDATE">
+        <allow_database_view_filter>false</allow_database_view_filter>
+        <allow_extended_table>false</allow_extended_table>
+        <boolean_field/>
+        <boolean_table/>
+        <date_filter/>
+        <default_boolean_field/>
+        <default_choice/>
+        <default_date_filter/>
+        <default_reference_field_value/>
+        <description/>
+        <exclusion_choice_list/>
+        <look_up_name/>
+        <name>ESD 1</name>
+        <no_bulk_migration>false</no_bulk_migration>
+        <reference_conditions table="sys_user">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </reference_conditions>
+        <reference_table>sys_user</reference_table>
+        <remove_all_option>false</remove_all_option>
+        <source_field/>
+        <source_table/>
+        <sys_class_name>sys_ui_hp_publisher</sys_class_name>
+        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+        <sys_created_on>2023-07-14 10:44:48</sys_created_on>
+        <sys_id>081845d51bc47d10aba7639ce54bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ESD 1</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_ui_hp_publisher_081845d51bc47d10aba7639ce54bcb4d</sys_update_name>
+        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-07-14 10:44:48</sys_updated_on>
+        <type>2</type>
+        <ui_control_type>4</ui_control_type>
+        <use_starts_with_on_search_keyword>false</use_starts_with_on_search_keyword>
+    </sys_ui_hp_publisher>
+</record_update>

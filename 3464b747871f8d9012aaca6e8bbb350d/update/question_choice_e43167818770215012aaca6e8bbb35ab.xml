@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>600</order>
+        <published_ref/>
+        <question display_value="Status">ec3167818770215012aaca6e8bbb3590</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2023-02-02 13:50:17</sys_created_on>
+        <sys_id>e43167818770215012aaca6e8bbb35ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>On Hold</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>question_choice_e43167818770215012aaca6e8bbb35ab</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-02-02 13:50:17</sys_updated_on>
+        <text>On Hold</text>
+        <value>on_hold</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=e43167818770215012aaca6e8bbb35ab"/>
+</record_update>

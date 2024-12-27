@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-12-27 18:43:45">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+        <sys_created_on>2023-07-13 11:58:06</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>3e7f0cc11b8cf910aba7639ce54bcbd5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>PA ESS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_portal_page_3e7f0cc11b8cf910aba7639ce54bcbd5</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-20 15:48:36</sys_updated_on>
+        <title>PA ESS</title>
+        <user/>
+        <view>pa_aess_&amp;_tetris_dashbo_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+                <summary>AESS</summary>
+                <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                <sys_id>2f1face78784f55012aaca6e8bbb352c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                        <sys_id>2f1face78784f55012aaca6e8bbb352d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                        <value>341fece78784f55012aaca6e8bbb3595</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                        <sys_id>371face78784f55012aaca6e8bbb352f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:40</sys_created_on>
+                        <sys_id>633fa42b8784f55012aaca6e8bbb35a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:40</sys_created_on>
+                        <sys_id>633fa42b8784f55012aaca6e8bbb35aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:40</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:40</sys_created_on>
+                        <sys_id>673fa42b8784f55012aaca6e8bbb35a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:40</sys_created_on>
+                        <sys_id>673fa42b8784f55012aaca6e8bbb35aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:40</sys_created_on>
+                        <sys_id>6b3fa42b8784f55012aaca6e8bbb35a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:40</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:40</sys_created_on>
+                        <sys_id>6b3fa42b8784f55012aaca6e8bbb35aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:40</sys_created_on>
+                        <sys_id>6f3fa42b8784f55012aaca6e8bbb35a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:40</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:40</sys_created_on>
+                        <sys_id>6f3fa42b8784f55012aaca6e8bbb35aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:40</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                        <sys_id>731face78784f55012aaca6e8bbb352f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                        <sys_id>731face78784f55012aaca6e8bbb3531</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                        <sys_id>7f1face78784f55012aaca6e8bbb352f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                        <value>AESS</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                        <sys_id>bb1face78784f55012aaca6e8bbb352f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                        <sys_id>bf1face78784f55012aaca6e8bbb352e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-07-21 14:11:08">2f1face78784f55012aaca6e8bbb352c</portal_section>
+                        <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-21 08:41:08</sys_created_on>
+                        <sys_id>f71face78784f55012aaca6e8bbb352f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:41:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+                <summary>All Request</summary>
+                <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                <sys_id>36bd38d51b847d10aba7639ce54bcb9a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                        <sys_id>32bd38d51b847d10aba7639ce54bcb9b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                        <sys_id>3ebd38d51b847d10aba7639ce54bcb9b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                        <sys_id>76bd38d51b847d10aba7639ce54bcb9c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                        <sys_id>7abd38d51b847d10aba7639ce54bcb9a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                        <value>7b7bb8511b847d10aba7639ce54bcb31</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                        <sys_id>7abd38d51b847d10aba7639ce54bcb9b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:44</sys_created_on>
+                        <sys_id>81b305511bc47d10aba7639ce54bcbed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:44</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:44</sys_created_on>
+                        <sys_id>81b305511bc47d10aba7639ce54bcbee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:44</sys_created_on>
+                        <sys_id>85b305511bc47d10aba7639ce54bcbed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:44</sys_created_on>
+                        <sys_id>85b305511bc47d10aba7639ce54bcbee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:44</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:59:01</sys_created_on>
+                        <sys_id>878bc5991bc47d10aba7639ce54bcbad</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:59:01</sys_updated_on>
+                        <value>#e5bef4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:44</sys_created_on>
+                        <sys_id>89b305511bc47d10aba7639ce54bcbec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:44</sys_created_on>
+                        <sys_id>89b305511bc47d10aba7639ce54bcbed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:44</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:44</sys_created_on>
+                        <sys_id>8db305511bc47d10aba7639ce54bcbec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:44</sys_created_on>
+                        <sys_id>8db305511bc47d10aba7639ce54bcbed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                        <sys_id>b6bd38d51b847d10aba7639ce54bcb9b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                        <sys_id>f2bd38d51b847d10aba7639ce54bcb9b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:39">36bd38d51b847d10aba7639ce54bcb9a</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:39</sys_created_on>
+                        <sys_id>febd38d51b847d10aba7639ce54bcb9b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:39</sys_updated_on>
+                        <value>All Request</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+                <summary>Active requests by CFM contact</summary>
+                <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                <sys_created_on>2023-07-14 09:58:27</sys_created_on>
+                <sys_id>3bad30191b847d10aba7639ce54bcb87</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                <sys_updated_on>2023-07-14 09:58:27</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:27</sys_created_on>
+                        <sys_id>37ad30191b847d10aba7639ce54bcb88</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:27</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:27</sys_created_on>
+                        <sys_id>7fad30191b847d10aba7639ce54bcb87</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:27</sys_updated_on>
+                        <value>6bfc30d51b847d10aba7639ce54bcb11</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:27</sys_created_on>
+                        <sys_id>b3ad74191b847d10aba7639ce54bcbe1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:27</sys_updated_on>
+                        <value>Active requests by CFM contact</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:27</sys_created_on>
+                        <sys_id>bbad30191b847d10aba7639ce54bcb88</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:27</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:34</sys_created_on>
+                        <sys_id>d2a3c9511bc47d10aba7639ce54bcb85</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:34</sys_created_on>
+                        <sys_id>d6a3c9511bc47d10aba7639ce54bcb85</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:34</sys_created_on>
+                        <sys_id>e2a3c9511bc47d10aba7639ce54bcb86</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:34</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:34</sys_created_on>
+                        <sys_id>e6a3c9511bc47d10aba7639ce54bcb86</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:34</sys_created_on>
+                        <sys_id>eaa3c9511bc47d10aba7639ce54bcb85</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:34</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:34</sys_created_on>
+                        <sys_id>eaa3c9511bc47d10aba7639ce54bcb86</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:34</sys_created_on>
+                        <sys_id>eea3c9511bc47d10aba7639ce54bcb85</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:34</sys_created_on>
+                        <sys_id>eea3c9511bc47d10aba7639ce54bcb86</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:34</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:27</sys_created_on>
+                        <sys_id>f7ad30191b847d10aba7639ce54bcb88</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:27</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:27">3bad30191b847d10aba7639ce54bcb87</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:27</sys_created_on>
+                        <sys_id>ffad74191b847d10aba7639ce54bcbe0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:27</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+                <summary>All Request- AESS</summary>
+                <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                <sys_created_on>2023-07-14 09:58:14</sys_created_on>
+                <sys_id>3cad30191b847d10aba7639ce54bcb7d</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                <sys_updated_on>2023-07-14 09:58:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:14</sys_created_on>
+                        <sys_id>34ad30191b847d10aba7639ce54bcb80</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 11:00:01</sys_created_on>
+                        <sys_id>39cb051d1bc47d10aba7639ce54bcbe2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 11:00:01</sys_updated_on>
+                        <value>#c9eeeb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:38</sys_created_on>
+                        <sys_id>63a341511bc47d10aba7639ce54bcb42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:38</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:38</sys_created_on>
+                        <sys_id>63a341511bc47d10aba7639ce54bcb43</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:38</sys_created_on>
+                        <sys_id>67a341511bc47d10aba7639ce54bcb42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:38</sys_created_on>
+                        <sys_id>67a341511bc47d10aba7639ce54bcb43</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:38</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:38</sys_created_on>
+                        <sys_id>6ba341511bc47d10aba7639ce54bcb41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:38</sys_created_on>
+                        <sys_id>6ba341511bc47d10aba7639ce54bcb42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:38</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:38</sys_created_on>
+                        <sys_id>6fa341511bc47d10aba7639ce54bcb41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:38</sys_created_on>
+                        <sys_id>6fa341511bc47d10aba7639ce54bcb42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:14</sys_created_on>
+                        <sys_id>70ad30191b847d10aba7639ce54bcb80</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:14</sys_created_on>
+                        <sys_id>7cad30191b847d10aba7639ce54bcb7e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:14</sys_updated_on>
+                        <value>999c38551b847d10aba7639ce54bcb59</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:14</sys_created_on>
+                        <sys_id>7cad30191b847d10aba7639ce54bcb80</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:14</sys_updated_on>
+                        <value>All Request- AESS</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:14</sys_created_on>
+                        <sys_id>b8ad30191b847d10aba7639ce54bcb80</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:14</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-07-14 15:28:14">3cad30191b847d10aba7639ce54bcb7d</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 09:58:14</sys_created_on>
+                        <sys_id>f4ad30191b847d10aba7639ce54bcb80</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 09:58:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+                <summary>All Active Request - AESS</summary>
+                <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                <sys_id>4425c9d11bc47d10aba7639ce54bcbae</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                        <sys_id>0c25c9d11bc47d10aba7639ce54bcbb0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>276b4dd91bc47d10aba7639ce54bcbf2</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:59:08</sys_updated_on>
+                        <value>#f0c7f5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                        <sys_id>4825c9d11bc47d10aba7639ce54bcbb0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                        <sys_id>8025c9d11bc47d10aba7639ce54bcbb1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                        <value>All Active Request - AESS</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                        <sys_id>8425c9d11bc47d10aba7639ce54bcbb0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                        <sys_id>9425c9d11bc47d10aba7639ce54bcbb2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                        <sys_id>c025c9d11bc47d10aba7639ce54bcbaf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                        <value>7c0545d11bc47d10aba7639ce54bcb53</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                        <sys_id>c025c9d11bc47d10aba7639ce54bcbb0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:30:58</sys_created_on>
+                        <sys_id>cc25c9d11bc47d10aba7639ce54bcbb0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:30:58</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>e36b4dd91bc47d10aba7639ce54bcbf0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>e36b4dd91bc47d10aba7639ce54bcbf1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:30</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>e76b4dd91bc47d10aba7639ce54bcbf0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>e76b4dd91bc47d10aba7639ce54bcbf1</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>eb6b4dd91bc47d10aba7639ce54bcbf0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:30</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>eb6b4dd91bc47d10aba7639ce54bcbf1</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>ef6b4dd91bc47d10aba7639ce54bcbf0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2023-07-14 16:00:58">4425c9d11bc47d10aba7639ce54bcbae</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:30</sys_created_on>
+                        <sys_id>ef6b4dd91bc47d10aba7639ce54bcbf1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:30</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+                <summary>ESD 1</summary>
+                <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                <sys_created_on>2023-07-14 10:43:45</sys_created_on>
+                <sys_id>6308c1d51bc47d10aba7639ce54bcb82</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                <sys_updated_on>2023-07-14 10:44:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>105bc5d91bc47d10aba7639ce54bcb4a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>145bc5d91bc47d10aba7639ce54bcb4a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>185bc5d91bc47d10aba7639ce54bcb4a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>1c5bc5d91bc47d10aba7639ce54bcb49</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:43:45</sys_created_on>
+                        <sys_id>2708c1d51bc47d10aba7639ce54bcb84</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:43:45</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:43:45</sys_created_on>
+                        <sys_id>6308c1d51bc47d10aba7639ce54bcb84</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:43:45</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>905bc5d91bc47d10aba7639ce54bcb4b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>945bc5d91bc47d10aba7639ce54bcb4b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>985bc5d91bc47d10aba7639ce54bcb4b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>#f5f0f0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>9c5bc5d91bc47d10aba7639ce54bcb4a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:00</sys_created_on>
+                        <sys_id>9c5bc5d91bc47d10aba7639ce54bcb4b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:00</sys_updated_on>
+                        <value>#000000</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:43:45</sys_created_on>
+                        <sys_id>ab08c1d51bc47d10aba7639ce54bcb84</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:44:48</sys_updated_on>
+                        <value>ESD 1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:43:45</sys_created_on>
+                        <sys_id>af08c1d51bc47d10aba7639ce54bcb85</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:44:48</sys_updated_on>
+                        <value>sys_ui_hp_publisher</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:43:45</sys_created_on>
+                        <sys_id>e708c1d51bc47d10aba7639ce54bcb84</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:43:45</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-07-14 16:13:45">6308c1d51bc47d10aba7639ce54bcb82</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:43:45</sys_created_on>
+                        <sys_id>ef08c1d51bc47d10aba7639ce54bcb82</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:44:48</sys_updated_on>
+                        <value>081845d51bc47d10aba7639ce54bcb4d</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+                <summary>AESS - Request by status</summary>
+                <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                <sys_created_on>2023-07-14 10:01:58</sys_created_on>
+                <sys_id>6b7e70591b847d10aba7639ce54bcb67</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                <sys_updated_on>2023-07-14 10:01:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:59:50</sys_created_on>
+                        <sys_id>0bbb45d91bc47d10aba7639ce54bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:59:50</sys_updated_on>
+                        <value>#caf1f2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:01:58</sys_created_on>
+                        <sys_id>2f7e70591b847d10aba7639ce54bcb69</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:01:58</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:59</sys_created_on>
+                        <sys_id>60c349511bc47d10aba7639ce54bcbc8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:59</sys_created_on>
+                        <sys_id>60c349511bc47d10aba7639ce54bcbc9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:59</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:59</sys_created_on>
+                        <sys_id>64c349511bc47d10aba7639ce54bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:59</sys_created_on>
+                        <sys_id>64c349511bc47d10aba7639ce54bcbc8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-21 08:39:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:01:58</sys_created_on>
+                        <sys_id>677e70591b847d10aba7639ce54bcb6a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:01:58</sys_updated_on>
+                        <value>AESS - Request by status</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:59</sys_created_on>
+                        <sys_id>68c349511bc47d10aba7639ce54bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:59</sys_created_on>
+                        <sys_id>68c349511bc47d10aba7639ce54bcbc8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:01:58</sys_created_on>
+                        <sys_id>6b7e70591b847d10aba7639ce54bcb69</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:01:58</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:59</sys_created_on>
+                        <sys_id>6cc349511bc47d10aba7639ce54bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:59</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:24:59</sys_created_on>
+                        <sys_id>6cc349511bc47d10aba7639ce54bcbc8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:01:58</sys_created_on>
+                        <sys_id>a37e70591b847d10aba7639ce54bcb6a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:01:58</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:01:58</sys_created_on>
+                        <sys_id>e77e70591b847d10aba7639ce54bcb68</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:01:58</sys_updated_on>
+                        <value>6d4e70991b847d10aba7639ce54bcb23</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-07-14 15:31:58">6b7e70591b847d10aba7639ce54bcb67</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:01:58</sys_created_on>
+                        <sys_id>ef7e70591b847d10aba7639ce54bcb69</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:01:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+                <summary>Status filter</summary>
+                <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                <sys_created_on>2023-07-14 10:23:31</sys_created_on>
+                <sys_id>8b63cd111bc47d10aba7639ce54bcbbb</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                <sys_updated_on>2023-07-14 10:24:12</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:23:31</sys_created_on>
+                        <sys_id>0b63cd111bc47d10aba7639ce54bcbbc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:23:31</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>335bc5991bc47d10aba7639ce54bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>335bc5991bc47d10aba7639ce54bcb93</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>#000000</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>375bc5991bc47d10aba7639ce54bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>3b5bc5991bc47d10aba7639ce54bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>3f5bc5991bc47d10aba7639ce54bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>#f5f4f4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:23:31</sys_created_on>
+                        <sys_id>4363cd111bc47d10aba7639ce54bcbbd</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:12</sys_updated_on>
+                        <value>Status filter</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:23:31</sys_created_on>
+                        <sys_id>8f63cd111bc47d10aba7639ce54bcbbc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:23:31</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>b35bc5991bc47d10aba7639ce54bcb91</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>b75bc5991bc47d10aba7639ce54bcb91</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>bb5bc5991bc47d10aba7639ce54bcb91</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:58:15</sys_created_on>
+                        <sys_id>bf5bc5991bc47d10aba7639ce54bcb90</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:58:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:23:31</sys_created_on>
+                        <sys_id>c763cd111bc47d10aba7639ce54bcbbd</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:12</sys_updated_on>
+                        <value>sys_ui_hp_publisher</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:23:31</sys_created_on>
+                        <sys_id>cb63cd111bc47d10aba7639ce54bcbbc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:23:31</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-07-14 15:53:31">8b63cd111bc47d10aba7639ce54bcbbb</portal_section>
+                        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+                        <sys_created_on>2023-07-14 10:23:31</sys_created_on>
+                        <sys_id>cf63cd111bc47d10aba7639ce54bcbbb</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>nirju.trishna.bhuyan@accenture.com</sys_updated_by>
+                        <sys_updated_on>2023-07-14 10:24:12</sys_updated_on>
+                        <value>c07385511bc47d10aba7639ce54bcbc3</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

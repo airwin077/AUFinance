@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_amspe_au_finan_0.hide_fiscal_month_records</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>hide_fiscal_month_records</name>
+        <script><![CDATA[var hide_fiscal_month_records = Class.create();
+hide_fiscal_month_records.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    initialize: function() {},
+
+    hideRecords: function(new_fiscal_period) {
+        var answer = 'success';
+
+        // Check if the new fiscal period is valid
+        if (!new_fiscal_period) {
+            return 'failure';
+        }
+
+        // Create a GlideRecord query to find records in the reference table
+        var gr = new GlideRecord('x_amspe_au_finan_0_reporting_period'); // Replace with the actual table name
+        gr.addQuery('fiscal_period', new_fiscal_period); // Replace 'fiscal_period_field' with the actual field name for fiscal period
+        gr.query();
+
+        // Loop through the matching records and update them
+        while (gr.next()) {
+			var period = gr.getValue('fiscal_period');
+			
+            gr.setValue('fiscal_month', true); // Replace 'fiscal_month_hidden' with the field you want to use for hiding
+            gr.update();
+        }
+
+        return answer;
+    },
+    type: 'hide_fiscal_month_records'
+});
+
+// var CustomServerScript = Class.create();
+// CustomServerScript.prototype = {
+
+
+//     type: 'CustomServerScript'
+// };]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>nagaraja.hosamani@accenture.com</sys_created_by>
+        <sys_created_on>2023-08-10 07:43:05</sys_created_on>
+        <sys_id>1931ef7187a0b11012aaca6e8bbb356e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>hide_fiscal_month_records</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_script_include_1931ef7187a0b11012aaca6e8bbb356e</sys_update_name>
+        <sys_updated_by>nagaraja.hosamani@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-08-10 07:50:48</sys_updated_on>
+    </sys_script_include>
+</record_update>

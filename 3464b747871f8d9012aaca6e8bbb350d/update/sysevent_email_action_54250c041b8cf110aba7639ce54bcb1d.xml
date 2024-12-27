@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_amspe_au_finan_0_tetris</collection>
+        <condition table="x_amspe_au_finan_0_tetris">state=Approved^request_typeNOT INAccenture ESD Change Request,Avanade ESD Change Request,Vendor/Manufacturer^bulk_load_record=false^EQ<item display_value="Approved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="Approved"/>
+            <item display_value="Accenture ESD Change Request,Avanade ESD Change Request,Vendor/Manufacturer" endquery="false" field="request_type" goto="false" newquery="false" operator="NOT IN" or="false" value="Accenture ESD Change Request,Avanade ESD Change Request,Vendor/Manufacturer"/>
+            <item endquery="false" field="bulk_load_record" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description>Tetris Changed Assigned Reporting Team</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from>ecosystem.support@accenture.com</from>
+        <generation_type>engine</generation_type>
+        <importance>high</importance>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p><span style="font-size: 10pt;">AU Reporting Team!</span></p>
+<p><span style="font-size: 10pt;">A new record has been assigned to you. Please see the details below:</span></p>
+<p>Requested For: ${requester}</p>
+<p>Client: ${client}</p>
+<p>From Vendor/Distributor: ${from_vendor_distributor}</p>
+<p>From Manufacturer - Ref: ${from_manufacturer_ref}</p>
+<p>USD Revenue Amount: ${usd_revenue_amout}</p>
+<p>Fiscal Period: ${fiscal_period}</p>
+<p>Fiscal Year: ${fiscal_year}</p>
+<p>Booking ID: ${related_request_id}</p>
+<p>Created: ${sys_created_on}</p>
+<p>Click here to view the request: ${URI_REF}</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Tetris Changed Assigned Reporting Team</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups name="AU Reporting Team">960db63b1b73e110aba7639ce54bcb93</recipient_groups>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>A New Request Has Been Assigned to Your  Team</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-07-10 08:46:26</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>54250c041b8cf110aba7639ce54bcb1d</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Tetris Changed Assigned Reporting Team</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sysevent_email_action_54250c041b8cf110aba7639ce54bcb1d</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 16:32:28</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="AU Finace Reporting Team - Assigned ">44d607031b467910aba7639ce54bcb93</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

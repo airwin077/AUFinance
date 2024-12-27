@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image>79718372c3da9ad0e286d9bc7a01315d</background_image>
+        <background_style>cover</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Resale Reporting Home - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="au_home">25409ec587d616901817639c8bbb3574</sp_page>
+        <subheader>true</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-04 10:16:45</sys_created_on>
+        <sys_id>7213de01871a16901817639c8bbb35ed</sys_id>
+        <sys_mod_count>67</sys_mod_count>
+        <sys_name>Resale Reporting Home - Container 1</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sp_container_7213de01871a16901817639c8bbb35ed</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-10 00:08:40</sys_updated_on>
+        <title/>
+        <width>container-fluid</width>
+    </sp_container>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#a94baa</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>background_image</file_name>
+        <hash>b9684b07c3f3061496fd432fb030ff7818566eab8ab985c832d613fcdf4e7ef7</hash>
+        <image_height>189</image_height>
+        <image_width>1739</image_width>
+        <size_bytes>3350</size_bytes>
+        <size_compressed>2032</size_compressed>
+        <state>available</state>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-10 00:08:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>79718372c3da9ad0e286d9bc7a01315d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-10 00:08:40</sys_updated_on>
+        <table_name>ZZ_YYsp_container</table_name>
+        <table_sys_id>7213de01871a16901817639c8bbb35ed</table_sys_id>
+        <u_final_version>false</u_final_version>
+        <u_internal_document_type/>
+        <u_location>Internal</u_location>
+        <u_quote_lifecycle/>
+        <u_visibility/>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="background_image" sys_id="79718372c3da9ad0e286d9bc7a01315d">79718372c3da9ad0e286d9bc7a01315d</sys_attachment>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-10 00:08:40</sys_created_on>
+        <sys_id>b9718372c3da9ad0e286d9bc7a01315d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2696</length>
+        <position>1</position>
+        <sys_attachment display_value="background_image" sys_id="79718372c3da9ad0e286d9bc7a01315d">79718372c3da9ad0e286d9bc7a01315d</sys_attachment>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-10 00:08:40</sys_created_on>
+        <sys_id>3d718372c3da9ad0e286d9bc7a01315d</sys_id>
+    </sys_attachment_doc>
+</record_update>

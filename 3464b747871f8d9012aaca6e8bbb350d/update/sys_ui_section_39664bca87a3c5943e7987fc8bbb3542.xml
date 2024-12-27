@@ -1,102 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="39664bca87a3c5943e7987fc8bbb3542" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_reporting_period" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>ea5315871b49b590aba7639ce54bcbae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
+            <text/>
+            <type display_value="White Space separator">cb5186d71b760c54c6bd2f06bd4bcb30</type>
+        </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>0</position>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-20 14:57:35</sys_created_on>
-            <sys_id>c3660bce87a3c5943e7987fc8bbb35b3</sys_id>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>6e53d9871b49b590aba7639ce54bcbd3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-20 14:57:35</sys_updated_on>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fiscal_year</element>
+            <element>period_type</element>
             <position>1</position>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-20 14:57:35</sys_created_on>
-            <sys_id>cf660bce87a3c5943e7987fc8bbb35b3</sys_id>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>ae53d9871b49b590aba7639ce54bcbd4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-20 14:57:35</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>calendar_year</element>
-            <position>2</position>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-20 14:57:35</sys_created_on>
-            <sys_id>c3660bce87a3c5943e7987fc8bbb35b4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-20 14:57:35</sys_updated_on>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-20 14:57:35</sys_created_on>
-            <sys_id>c7660bce87a3c5943e7987fc8bbb35b4</sys_id>
+            <position>2</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>a653d9871b49b590aba7639ce54bcbd5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-20 14:57:35</sys_updated_on>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fiscal_quarter</element>
-            <position>4</position>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-20 14:57:35</sys_created_on>
-            <sys_id>cb660bce87a3c5943e7987fc8bbb35b4</sys_id>
+            <element>name</element>
+            <position>3</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>ae53d9871b49b590aba7639ce54bcbd5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-20 14:57:35</sys_updated_on>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
-            <position>5</position>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-20 14:57:35</sys_created_on>
-            <sys_id>cf660bce87a3c5943e7987fc8bbb35b4</sys_id>
+            <element>ea5315871b49b590aba7639ce54bcbae</element>
+            <position>4</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>a653d9871b49b590aba7639ce54bcbd6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-20 14:57:35</sys_updated_on>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscal_period</element>
+            <position>5</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>ae53d9871b49b590aba7639ce54bcbd6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscal_month_numeric</element>
+            <position>6</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>a653d9871b49b590aba7639ce54bcbd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-20 14:57:35</sys_created_on>
-            <sys_id>c3660bce87a3c5943e7987fc8bbb35b5</sys_id>
+            <position>7</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>ae53d9871b49b590aba7639ce54bcbd7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-20 14:57:35</sys_updated_on>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>8</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-07 15:05:15</sys_created_on>
+            <sys_id>a653d9871b49b590aba7639ce54bcbd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_reporting_period" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">39664bca87a3c5943e7987fc8bbb3542</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-07 15:05:15</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

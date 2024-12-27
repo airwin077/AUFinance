@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="1">76139e45871a16901817639c8bbb35b8</sp_column>
+        <sp_widget/>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-04 10:19:06</sys_created_on>
+        <sys_id>98739a85871a16901817639c8bbb35cd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>AU home banner</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sp_instance_98739a85871a16901817639c8bbb35cd</sys_update_name>
+        <sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-04 11:11:40</sys_updated_on>
+        <title>AU home banner</title>
+        <u_type/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=98739a85871a16901817639c8bbb35cd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</application>
+        <file_path/>
+        <instance_id>d4f8d0ef9b9acb08bb2e6b8af359ff79</instance_id>
+        <instance_name>ecosystemsdev</instance_name>
+        <name>sp_instance_98739a85871a16901817639c8bbb35cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>lg</size><sp_column display_value="1">76139e45871a16901817639c8bbb35b8</sp_column><sp_widget/><sys_class_name>sp_instance</sys_class_name><sys_created_by>vishwanath.madharam@accenture.com</sys_created_by><sys_created_on>2024-12-04 10:19:06</sys_created_on><sys_id>98739a85871a16901817639c8bbb35cd</sys_id><sys_mod_count>3</sys_mod_count><sys_name>AU home banner</sys_name><sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package><sys_policy/><sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope><sys_update_name>sp_instance_98739a85871a16901817639c8bbb35cd</sys_update_name><sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by><sys_updated_on>2024-12-04 11:11:40</sys_updated_on><title>AU home banner</title><u_type/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=98739a85871a16901817639c8bbb35cd"/></record_update>]]></payload>
+        <payload_hash>1692084994</payload_hash>
+        <record_name>AU home banner</record_name>
+        <reverted_from/>
+        <source>c57505af870ad6501817639c8bbb3510</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-04 11:11:40</sys_created_on>
+        <sys_id>4baf92cd875a16901817639c8bbb3599</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193915e5aa10000001</sys_recorded_at>
+        <sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-04 11:11:40</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>8faf92cd8a5a169067a9bc3de710fa98</update_guid>
+        <update_guid_history>8faf92cd8a5a169067a9bc3de710fa98:1692084994,75af1ecd595a1690e4a281e81be8c214:-168998934,66351689e01a1690278e686a78ebe1da:2105869318,09a31e456c1a1690c248c4a84e915deb:-1407911394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2024-12-04 16:43:44">65202e81879a16901817639c8bbb35ee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-04 11:13:44</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>09322f5942fe410296cc2e6d9920cf44</sys_id>
+        <sys_metadata>98739a85871a16901817639c8bbb35cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AU home banner</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_scope_delete display_value="">3416ead7f0ba491ea06a38b206ad8344</sys_scope_delete>
+        <sys_update_name>sp_instance_98739a85871a16901817639c8bbb35cd</sys_update_name>
+        <sys_update_version display_value="sp_instance_98739a85871a16901817639c8bbb35cd">4baf92cd875a16901817639c8bbb3599</sys_update_version>
+        <sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-04 11:13:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

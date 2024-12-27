@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>hide_fiscal_month_records</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>nagaraja.hosamani@accenture.com</sys_created_by>
+        <sys_created_on>2023-08-10 07:43:06</sys_created_on>
+        <sys_id>e8a1e3b187a0b11012aaca6e8bbb3535</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hide_fiscal_month_records</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_security_acl_e8a1e3b187a0b11012aaca6e8bbb3535</sys_update_name>
+        <sys_updated_by>nagaraja.hosamani@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-08-10 07:43:06</sys_updated_on>
+        <type display_value="client_callable_script_include">client_callable_script_include</type>
+    </sys_security_acl>
+</record_update>

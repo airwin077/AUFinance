@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_theme_css_include">
+    <m2m_sp_theme_css_include action="DELETE">
+        <order/>
+        <sp_css_include display_value="Graphik font">0da0c9b51b3d28980c3299bd2e4bcb45</sp_css_include>
+        <sp_theme display_value="AU finance theme">317864a187ded6901817639c8bbb3542</sp_theme>
+        <sys_class_name>m2m_sp_theme_css_include</sys_class_name>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-05 15:49:03</sys_created_on>
+        <sys_id>04c8e8e187ded6901817639c8bbb354f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Graphik font.AU finance theme</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>m2m_sp_theme_css_include_04c8e8e187ded6901817639c8bbb354f</sys_update_name>
+        <sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-05 15:49:03</sys_updated_on>
+    </m2m_sp_theme_css_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</application>
+        <file_path/>
+        <instance_id>d4f8d0ef9b9acb08bb2e6b8af359ff79</instance_id>
+        <instance_name>ecosystemsdev</instance_name>
+        <name>m2m_sp_theme_css_include_04c8e8e187ded6901817639c8bbb354f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_theme_css_include"><m2m_sp_theme_css_include action="INSERT_OR_UPDATE"><order/><sp_css_include display_value="Graphik font">0da0c9b51b3d28980c3299bd2e4bcb45</sp_css_include><sp_theme display_value="AU finance theme">317864a187ded6901817639c8bbb3542</sp_theme><sys_class_name>m2m_sp_theme_css_include</sys_class_name><sys_created_by>vishwanath.madharam@accenture.com</sys_created_by><sys_created_on>2024-12-05 15:49:03</sys_created_on><sys_id>04c8e8e187ded6901817639c8bbb354f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Graphik font.AU finance theme</sys_name><sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package><sys_policy/><sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope><sys_update_name>m2m_sp_theme_css_include_04c8e8e187ded6901817639c8bbb354f</sys_update_name><sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by><sys_updated_on>2024-12-05 15:49:03</sys_updated_on></m2m_sp_theme_css_include></record_update>]]></payload>
+        <payload_hash>-928315417</payload_hash>
+        <record_name>Graphik font.AU finance theme</record_name>
+        <reverted_from/>
+        <source>c57505af870ad6501817639c8bbb3510</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-05 15:49:03</sys_created_on>
+        <sys_id>48c8e8e187ded6901817639c8bbb3552</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1939782aa6e0000001</sys_recorded_at>
+        <sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-05 15:49:03</sys_updated_on>
+        <type>Stylesheets</type>
+        <update_guid>0cc8e8e1a2ded69095a1e64e82fc0851</update_guid>
+        <update_guid_history>0cc8e8e1a2ded69095a1e64e82fc0851:-928315417</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2024-12-05 21:20:42">5429a82587ded6901817639c8bbb35f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-05 15:50:42</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_theme_css_include">m2m_sp_theme_css_include</sys_db_object>
+        <sys_id>001d2d2d5c5b4dd8800069f893b91884</sys_id>
+        <sys_metadata>04c8e8e187ded6901817639c8bbb354f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Graphik font.AU finance theme</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_scope_delete display_value="">3416ead7f0ba491ea06a38b206ad8344</sys_scope_delete>
+        <sys_update_name>m2m_sp_theme_css_include_04c8e8e187ded6901817639c8bbb354f</sys_update_name>
+        <sys_update_version display_value="m2m_sp_theme_css_include_04c8e8e187ded6901817639c8bbb354f">48c8e8e187ded6901817639c8bbb3552</sys_update_version>
+        <sys_updated_by>vishwanath.madharam@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-05 15:50:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>.imgheight{&#13;
+height: 200px;&#13;
+}</css_variables>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>true</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="au_home">25409ec587d616901817639c8bbb3574</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application display_value="Service Portal Default Search Application">00731b9d5b231010d9a5ce1a8581c7dd</search_application>
+        <search_results_configuration display_value="Service Portal Search">80eb579d53671010968addeeff7b1215</search_results_configuration>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="AU Finance Menu">0b0f3309871a56901817639c8bbb359d</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>vishwanath.madharam@accenture.com</sys_created_by>
+        <sys_created_on>2024-11-29 13:16:05</sys_created_on>
+        <sys_id>f46b8da3878ad6501817639c8bbb358a</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Resale Reporting</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sp_portal_f46b8da3878ad6501817639c8bbb358a</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-09 18:13:07</sys_updated_on>
+        <theme display_value="AU finance theme">317864a187ded6901817639c8bbb3542</theme>
+        <title>Resale Reporting</title>
+        <ts_index_group/>
+        <u_active>true</u_active>
+        <url_suffix>resale_reporting</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=f46b8da3878ad6501817639c8bbb358a"/>
+</record_update>

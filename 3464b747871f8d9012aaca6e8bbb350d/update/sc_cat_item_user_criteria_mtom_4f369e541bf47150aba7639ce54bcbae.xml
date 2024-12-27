@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="EDF Device as a Service">3e365e541bf47150aba7639ce54bcb1f</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2023-08-17 20:38:30</sys_created_on>
+        <sys_id>4f369e541bf47150aba7639ce54bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EDF Device as a Service.Default access for EDF Device as a Service</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_4f369e541bf47150aba7639ce54bcbae</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-08-17 20:38:30</sys_updated_on>
+        <user_criteria display_value="Default access for EDF Device as a Service">0f369e541bf47150aba7639ce54bcbaa</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

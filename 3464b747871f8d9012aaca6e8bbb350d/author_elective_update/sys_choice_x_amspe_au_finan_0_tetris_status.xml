@@ -20,26 +20,6 @@
             <element>status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Draft</label>
-            <language>en</language>
-            <name>x_amspe_au_finan_0_tetris</name>
-            <sequence>100</sequence>
-            <synonyms/>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-07-26 14:37:13</sys_created_on>
-            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
-            <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>b53484f3877c51543e7987fc8bbb3517</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-07-26 14:37:13</sys_updated_on>
-            <value>Draft</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>status</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>In Review</label>
             <language>en</language>
             <name>x_amspe_au_finan_0_tetris</name>
@@ -49,7 +29,6 @@
             <sys_created_on>2022-07-26 14:37:39</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>fb4444b3877c51543e7987fc8bbb3504</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
             <sys_updated_on>2022-07-26 14:37:39</sys_updated_on>
@@ -69,7 +48,6 @@
             <sys_created_on>2022-07-26 14:38:04</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>1e6488f3877c51543e7987fc8bbb350e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
             <sys_updated_on>2022-07-26 14:38:04</sys_updated_on>
@@ -89,7 +67,6 @@
             <sys_created_on>2022-07-26 14:38:26</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>2584c8f3877c51543e7987fc8bbb3590</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
             <sys_updated_on>2022-07-26 14:38:26</sys_updated_on>
@@ -109,7 +86,6 @@
             <sys_created_on>2022-07-26 14:38:44</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>0e9488f3877c51543e7987fc8bbb3513</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
             <sys_updated_on>2022-07-26 14:38:44</sys_updated_on>
@@ -129,7 +105,6 @@
             <sys_created_on>2022-07-26 14:39:03</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>e6a408f3877c51543e7987fc8bbb350a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
             <sys_updated_on>2022-07-26 14:39:03</sys_updated_on>
@@ -149,7 +124,6 @@
             <sys_created_on>2022-07-26 14:39:23</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>efb40cf3877c51543e7987fc8bbb354f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
             <sys_updated_on>2022-07-26 14:39:23</sys_updated_on>

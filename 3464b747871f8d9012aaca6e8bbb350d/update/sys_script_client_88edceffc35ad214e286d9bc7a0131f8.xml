@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>fiscal_month</field>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Fiscal Month End Quarter Alert</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+   if (isLoading || newValue == '') {
+      return;
+   }
+  
+	var value=g_form.getValue('fiscal_month');
+	if(value=="c5b64d291b203110aba7639ce54bcb95"||value=="01b64d291b203110aba7639ce54bcb96"||value=="49b64d291b203110aba7639ce54bcb96"||value=="8db64d291b203110aba7639ce54bcb94"){
+				
+		//February
+		//May 
+		//August
+		//November 8db64d291b203110aba7639ce54bcb94
+		
+	alert('Further approval is required for your request, remember to attach the Market Lead approval before submitting the request');
+//top.window.open("https://ts.accenture.com/sites/LegalTechnology/Site%20Pages/AP81%203PC%20Portal%20Landing%20Page.aspx");
+		}
+else return;	   
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-12 22:57:56</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>88edceffc35ad214e286d9bc7a0131f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fiscal Month End Quarter Alert</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_script_client_88edceffc35ad214e286d9bc7a0131f8</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-12 22:57:56</sys_updated_on>
+        <table>x_amspe_au_finan_0_aess</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

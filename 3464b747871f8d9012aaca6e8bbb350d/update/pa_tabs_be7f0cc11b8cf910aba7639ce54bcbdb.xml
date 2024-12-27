@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA AESS &amp; TETRIS Dashbo - New Tab">3e7f0cc11b8cf910aba7639ce54bcbd7</canvas_page>
+        <name>ESS</name>
+        <page display_value="PA ESS">3e7f0cc11b8cf910aba7639ce54bcbd5</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>nirju.trishna.bhuyan@accenture.com</sys_created_by>
+        <sys_created_on>2023-07-13 11:58:06</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>be7f0cc11b8cf910aba7639ce54bcbdb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ESS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>pa_tabs_be7f0cc11b8cf910aba7639ce54bcbdb</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-20 15:48:36</sys_updated_on>
+    </pa_tabs>
+</record_update>

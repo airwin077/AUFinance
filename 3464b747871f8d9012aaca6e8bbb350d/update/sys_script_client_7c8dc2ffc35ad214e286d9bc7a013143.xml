@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>fiscal_period</field>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Show Fiscal Month based on Fiscal Period</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+    
+    // Perform a GlideAjax call to the server-side script
+    var ga = new GlideAjax('hide_fiscal_month_records'); // CustomServerScript is the name of the server-side script
+    ga.addParam('sysparm_name', 'hideRecords');
+    ga.addParam('sysparm_new_value', newValue);
+    ga.getXML(handleResponse);
+}
+
+function handleResponse(response) {
+    var answer = response.responseXML.documentElement.getAttribute('answer');
+    
+    if (answer === 'success') {
+        // Hide or remove the records from the reference table as needed
+        // You might need to use DOM manipulation or GlideList API here
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-12 22:56:37</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>7c8dc2ffc35ad214e286d9bc7a013143</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Fiscal Month based on Fiscal Period</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_script_client_7c8dc2ffc35ad214e286d9bc7a013143</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-12 22:56:37</sys_updated_on>
+        <table>x_amspe_au_finan_0_aess</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

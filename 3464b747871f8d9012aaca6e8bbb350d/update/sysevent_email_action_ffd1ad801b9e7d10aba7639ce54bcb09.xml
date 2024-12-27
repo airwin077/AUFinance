@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_amspe_au_finan_0_tetris</collection>
+        <condition table="x_amspe_au_finan_0_tetris">approval_status=Approved^request_typeINAccenture ESD Change Request,Avanade ESD Change Request,Vendor/Manufacturer,Bulk Load^usd_revenue_amout&gt;javascript:global.getCurrencyFilter('x_amspe_au_finan_0_tetris','usd_revenue_amout', 'USD;250,000')^EQ<item display_value="Approved" endquery="false" field="approval_status" goto="false" newquery="false" operator="=" or="false" value="Approved"/>
+            <item display_value="Accenture ESD Change Request,Avanade ESD Change Request,Vendor/Manufacturer,Bulk Load" endquery="false" field="request_type" goto="false" newquery="false" operator="IN" or="false" value="Accenture ESD Change Request,Avanade ESD Change Request,Vendor/Manufacturer,Bulk Load"/>
+            <item endquery="false" field="usd_revenue_amout" goto="false" newquery="false" operator="&gt;" or="false" value="javascript:global.getCurrencyFilter('x_amspe_au_finan_0_tetris','usd_revenue_amout', 'USD;250,000')"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Dear Approver: ${approver_id}</p>
+<p>We require approval for Tetris request to make the required changes to the DRDR.</p>
+<p>Your approval represents a commitment by&nbsp;Tetris Process.</p>
+<p>Please see the details below:</p>
+<p>Requested For: ${requester}</p>
+<p>Client: ${client}</p>
+<p>From ESD: ${from_esd}</p>
+<p>To ESD: ${to_esd}</p>
+<p>USD Revenue Amount: ${usd_revenue_amout}</p>
+<p>Fiscal Period: ${fiscal_period}</p>
+<p>Fiscal Year: ${fiscal_year}</p>
+<p>Requester Comments: ${requester_comments}</p>
+<p>Created: ${sys_created_on}</p>
+<p>Click here to view the request: ${URI_REF}</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Tetris Global Lead Approval</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups name="Tetris Approver L2">b31fd1001b9e7d10aba7639ce54bcb71</recipient_groups>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Tetris - Approval Change Requested</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-10-30 11:45:24</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>ffd1ad801b9e7d10aba7639ce54bcb09</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Tetris Global Lead Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sysevent_email_action_ffd1ad801b9e7d10aba7639ce54bcb09</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 11:52:09</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Tetris Bs Op Approval ">28e8a9d0870955543e7987fc8bbb3548</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

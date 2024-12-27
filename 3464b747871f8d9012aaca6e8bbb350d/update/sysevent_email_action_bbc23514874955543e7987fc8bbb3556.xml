@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sysevent_email_action">
     <sysevent_email_action action="INSERT_OR_UPDATE">
         <action_insert>true</action_insert>
-        <action_update>false</action_update>
+        <action_update>true</action_update>
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
         <collection>x_amspe_au_finan_0_tetris</collection>
-        <condition/>
+        <condition table="x_amspe_au_finan_0_tetris">assigned_toISNOTEMPTY^bulk_load_record=false^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="bulk_load_record" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
         <content_type>text/html</content_type>
         <default_interval/>
         <description>AU finance team(Tetris) - Record assigned notification</description>
@@ -36,7 +39,7 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p><span style="font-size: 10pt;">AU finance team !</span></p>
+        <message_html><![CDATA[<p><span style="font-size: 10pt;">Dear Requester,</span></p>
 <p><span style="font-size: 10pt;">The record has been assigned. Please see the details below:</span></p>
 <p>Client: ${client}</p>
 <p>Operating Group: ${operating_group}</p>
@@ -47,18 +50,18 @@
 <p>Click here to view the request: ${URI_REF}</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>AU finance Tetris - Record Assigned</name>
+        <name>Bs Op Tetris - Record Assigned</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
         <recipient_fields/>
-        <recipient_groups>5fbc97960fda8300caaf91dbe1050e7c,8400c9f00fb94340caaf91dbe1050e25,9e1b85e71b5510900c3299bd2e4bcb49,aa826b1edb348300cbaad2c75e9619ba,e4b58e5d4f6e7288ca79b47f0210c793</recipient_groups>
-        <recipient_users/>
+        <recipient_groups name="AU Tetris BsOpApprover">b8c3454887cc351012aaca6e8bbb3562</recipient_groups>
+        <recipient_users>2acb06bfdbd7af00ef0683305b96199b</recipient_users>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>A new record has been added</subject>
+        <subject>A new record has been Assigned </subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
@@ -66,17 +69,17 @@
         <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
         <sys_domain_path>!!!/</sys_domain_path>
         <sys_id>bbc23514874955543e7987fc8bbb3556</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>AU finance Tetris - Record Assigned</sys_name>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Bs Op Tetris - Record Assigned</sys_name>
         <sys_overrides/>
         <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
         <sys_policy/>
         <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
         <sys_update_name>sysevent_email_action_bbc23514874955543e7987fc8bbb3556</sys_update_name>
-        <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-        <sys_updated_on>2022-07-29 06:48:44</sys_updated_on>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 16:48:00</sys_updated_on>
         <sys_version>2</sys_version>
-        <template display_value="AU Finance (Tetris) - Record assigned">28e8a9d0870955543e7987fc8bbb3548</template>
+        <template display_value="Tetris Bs Op Approval ">28e8a9d0870955543e7987fc8bbb3548</template>
         <type>email</type>
         <weight>0</weight>
     </sysevent_email_action>

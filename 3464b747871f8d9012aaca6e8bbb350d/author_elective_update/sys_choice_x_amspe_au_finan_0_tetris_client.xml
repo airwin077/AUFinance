@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="client" table="x_amspe_au_finan_0_tetris" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>client</element>
+            <name>x_amspe_au_finan_0_tetris</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-12 15:57:25</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>client</sys_name>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_choice_x_amspe_au_finan_0_tetris_client</sys_update_name>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-12 15:57:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

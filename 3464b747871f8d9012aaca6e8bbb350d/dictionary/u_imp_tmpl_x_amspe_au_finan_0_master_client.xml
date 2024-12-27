@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d39563481bc63950aba7639ce54bcbec" extends="sys_import_set_row" label="Imp Tmpl X Amspe Au Finan 0 Master Client" max_length="40" name="u_imp_tmpl_x_amspe_au_finan_0_master_client" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Market" label="Market" max_length="32" name="u_market" type="string"/>
+        <element attributes="import_attribute_name=Master Client ID" label="Master Client ID" max_length="32" name="u_master_client_id" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="32" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Market Unit" label="Market Unit" max_length="32" name="u_market_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cod" label="Cod" max_length="40" name="u_cod" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Master Client Name" label="Master Client Name" max_length="72" name="u_master_client_name" type="string"/>
+    </element>
+</database>

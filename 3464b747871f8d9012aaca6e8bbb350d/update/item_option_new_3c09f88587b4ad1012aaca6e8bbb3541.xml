@@ -17,6 +17,8 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
+        <dynamic_value_dot_walk_path/>
+        <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field>fiscal_period</field>
@@ -40,12 +42,12 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>fiscal_period</name>
-        <order>400</order>
+        <order>2700</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Fiscal Period</question_text>
+        <question_text>Fiscal Quarter</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -53,9 +55,12 @@
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table>x_amspe_au_finan_0_tetris</record_producer_table>
-        <reference/>
-        <reference_qual>open=true</reference_qual>
-        <reference_qual_condition>open=true</reference_qual_condition>
+        <reference>x_amspe_au_finan_0_reporting_period</reference>
+        <reference_qual>active=true^period_type=Fiscal Period^EQ</reference_qual>
+        <reference_qual_condition table="x_amspe_au_finan_0_reporting_period">active=true^period_type=Fiscal Period^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_value="Fiscal Period" endquery="false" field="period_type" goto="false" newquery="false" operator="=" or="false" value="Fiscal Period"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated 
@@ -73,19 +78,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
-        <sys_created_on>2023-02-02 01:40:40</sys_created_on>
+        <sys_created_on>2023-07-26 20:22:38</sys_created_on>
         <sys_id>3c09f88587b4ad1012aaca6e8bbb3541</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Fiscal Period</sys_name>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Fiscal Quarter</sys_name>
         <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
         <sys_policy/>
         <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
         <sys_update_name>item_option_new_3c09f88587b4ad1012aaca6e8bbb3541</sys_update_name>
         <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
-        <sys_updated_on>2023-02-02 01:57:23</sys_updated_on>
+        <sys_updated_on>2023-11-14 19:42:28</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>18</type>
+        <type>8</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

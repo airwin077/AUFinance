@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3642887987ec311012aaca6e8bbb352f" sys_domain="global" table="x_amspe_au_finan_0_tetris" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>8952c8b987ec311012aaca6e8bbb3524</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4152c8b987ec311012aaca6e8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c152c8b987ec311012aaca6e8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4552c8b987ec311012aaca6e8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c552c8b987ec311012aaca6e8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4952c8b987ec311012aaca6e8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c952c8b987ec311012aaca6e8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>7</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4d52c8b987ec311012aaca6e8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <position>8</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>cd52c8b987ec311012aaca6e8bbb3525</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>market</element>
+            <position>9</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4152c8b987ec311012aaca6e8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>operating_group</element>
+            <position>10</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c152c8b987ec311012aaca6e8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscal_year</element>
+            <position>11</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4552c8b987ec311012aaca6e8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>12</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c552c8b987ec311012aaca6e8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>client</element>
+            <position>13</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4952c8b987ec311012aaca6e8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wbse</element>
+            <position>14</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c952c8b987ec311012aaca6e8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>usd_revenue_amout</element>
+            <position>15</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4d52c8b987ec311012aaca6e8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>local_currency_revenue</element>
+            <position>16</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>cd52c8b987ec311012aaca6e8bbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>related_request_id</element>
+            <position>17</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4152c8b987ec311012aaca6e8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c152c8b987ec311012aaca6e8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester_comments</element>
+            <position>19</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4552c8b987ec311012aaca6e8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>20</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c552c8b987ec311012aaca6e8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_status</element>
+            <position>21</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4952c8b987ec311012aaca6e8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_vendor_distributor</element>
+            <position>22</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c952c8b987ec311012aaca6e8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_vendor_distributor</element>
+            <position>23</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4d52c8b987ec311012aaca6e8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_manufacturer_ref</element>
+            <position>24</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>cd52c8b987ec311012aaca6e8bbb3527</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>25</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4152c8b987ec311012aaca6e8bbb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_manufacturer</element>
+            <position>26</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c152c8b987ec311012aaca6e8bbb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>finance_id</element>
+            <position>27</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4552c8b987ec311012aaca6e8bbb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>completion_date</element>
+            <position>28</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c552c8b987ec311012aaca6e8bbb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>29</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4952c8b987ec311012aaca6e8bbb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>finance_comments</element>
+            <position>30</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c952c8b987ec311012aaca6e8bbb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>31</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4d52c8b987ec311012aaca6e8bbb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>32</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>cd52c8b987ec311012aaca6e8bbb3528</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_case</element>
+            <position>33</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4152c8b987ec311012aaca6e8bbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>34</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c152c8b987ec311012aaca6e8bbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>35</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4552c8b987ec311012aaca6e8bbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscal_month</element>
+            <position>36</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c552c8b987ec311012aaca6e8bbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fiscal_period</element>
+            <position>37</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4952c8b987ec311012aaca6e8bbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_option</element>
+            <position>38</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c952c8b987ec311012aaca6e8bbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>39</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4d52c8b987ec311012aaca6e8bbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_option</element>
+            <position>40</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>cd52c8b987ec311012aaca6e8bbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_esd</element>
+            <position>41</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4152c8b987ec311012aaca6e8bbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_esd</element>
+            <position>42</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c152c8b987ec311012aaca6e8bbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approved_rejected_date</element>
+            <position>43</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4552c8b987ec311012aaca6e8bbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>44</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c552c8b987ec311012aaca6e8bbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver_comments</element>
+            <position>45</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4952c8b987ec311012aaca6e8bbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>46</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c952c8b987ec311012aaca6e8bbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver_id</element>
+            <position>47</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4d52c8b987ec311012aaca6e8bbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>48</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>cd52c8b987ec311012aaca6e8bbb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>49</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4152c8b987ec311012aaca6e8bbb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>percentage_esd_1</element>
+            <position>50</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c152c8b987ec311012aaca6e8bbb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>percentage_esd_2</element>
+            <position>51</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4552c8b987ec311012aaca6e8bbb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>percentage_esd_3</element>
+            <position>52</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c552c8b987ec311012aaca6e8bbb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>53</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4952c8b987ec311012aaca6e8bbb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_esd_2</element>
+            <position>54</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c952c8b987ec311012aaca6e8bbb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_esd_3</element>
+            <position>55</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4d52c8b987ec311012aaca6e8bbb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_esd_2</element>
+            <position>56</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>cd52c8b987ec311012aaca6e8bbb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_esd_3</element>
+            <position>57</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4152c8b987ec311012aaca6e8bbb352c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>add_esd_split</element>
+            <position>58</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c152c8b987ec311012aaca6e8bbb352c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>add_new_esd_split</element>
+            <position>59</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>4552c8b987ec311012aaca6e8bbb352c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>60</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:28</sys_created_on>
+            <sys_id>c552c8b987ec311012aaca6e8bbb352c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>market_unit</element>
+            <position>61</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-16 07:07:06</sys_created_on>
+            <sys_id>bfe21a7787ec3d1012aaca6e8bbb352d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 07:07:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>global_lead_approver</element>
+            <position>62</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-25 19:41:04</sys_created_on>
+            <sys_id>04d5d3ba87bc715012aaca6e8bbb3594</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-25 19:41:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>market_unit_approver</element>
+            <position>63</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-25 19:42:21</sys_created_on>
+            <sys_id>aa165bba87bc715012aaca6e8bbb35c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-25 19:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>64</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-09-08 05:04:45</sys_created_on>
+            <sys_id>40831c131b89f590aba7639ce54bcbc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 05:04:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bulk_load_record</element>
+            <position>65</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-12 19:47:15</sys_created_on>
+            <sys_id>6e83ee56873db91012aaca6e8bbb35d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-12 19:47:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>currency</element>
+            <position>66</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-10-18 13:54:12</sys_created_on>
+            <sys_id>654cc4dc1b8a3950aba7639ce54bcb1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-10-18 13:54:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>master_client_not_found</element>
+            <position>67</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-11-03 18:35:44</sys_created_on>
+            <sys_id>552663951bdab550aba7639ce54bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-11-03 18:35:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_master_client_name</element>
+            <position>68</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-11-03 18:38:07</sys_created_on>
+            <sys_id>5cb66f951bdab550aba7639ce54bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-11-03 18:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_master_client_sap_id</element>
+            <position>69</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-11-03 18:39:51</sys_created_on>
+            <sys_id>2d176f951bdab550aba7639ce54bcbaf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-11-03 18:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admin_overrite</element>
+            <position>70</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-13 18:12:00</sys_created_on>
+            <sys_id>8436de0cc3629614e286d9bc7a0131d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="global" view="Default view">3642887987ec311012aaca6e8bbb352f</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-13 18:12:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_amspe_au_finan_0_tetris</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 15:27:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3642887987ec311012aaca6e8bbb352f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_amspe_au_finan_0_tetris</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_ui_section_3642887987ec311012aaca6e8bbb352f</sys_update_name>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:27:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

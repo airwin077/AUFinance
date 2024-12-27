@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_amspe_au_finan_0_tetris</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_amspe_au_finan_0_tetris">validations_successfully_completed=Yes^EQ<item display_value="Yes" endquery="false" field="validations_successfully_completed" goto="false" newquery="false" operator="=" or="false" value="Yes"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Setup Approver Booking amount</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+//var amt = current.usd_revenue_amout.toString().replace(/,/g, '').replace('$', '');
+var amt = current.usd_revenue_amout.toString();
+
+gs.info("USD REVENUE "+ amt);
+
+if (!current.usd_revenue_amout.nil() && !isNaN(amt) && parseFloat(amt) <= parseFloat("50000")) {
+		current.approver_id = "pablo.gomez@accenture.com";
+		current.approval_status = "Requested";
+		}
+else if (!current.usd_revenue_amout.nil() && !isNaN(amt) && parseFloat(amt) <= parseFloat("249999") ) {
+	//gs.info ("inside 1");
+	// North America
+	if(current.market=="560daa48dbcbac5042d8cde405961939"){
+		gs.info ("inside 2");
+				current.approver_id = "robert.g.kirshy@accenture.com";
+				current.approval_status = "Requested";
+	}
+	//Europe or Latin America
+	else if (current.market == "e21da684dbcbac5042d8cde405961901"||current.market_unit == "1b71ae00db8bac5042d8cde405961931"){
+		current.approver_id = "f.laberthonniere@accenture.com";
+		current.approval_status = "Requested";	
+	}
+	// Africa or SEA or India or Japan or ANZ or Greater China or Middle East
+	else if (current.market_unit == "b3ef968cdb4bac5042d8cde4059619ee" || current.market_unit == "32c1ea40db8bac5042d8cde405961921" || current.market_unit == "4551e28cdb4bac5042d8cde4059619b5" || current.market_unit == "8471aa00db8bac5042d8cde4059619f3" || current.market_unit == "64df928cdb4bac5042d8cde405961959" || current.market_unit == "4cb0eeccdb4bac5042d8cde405961954" || current.market_unit == "Middle East") {
+				current.approver_id = "david.conacher@accenture.com";
+				current.approval_status = "Requested";
+	}
+}
+	else if (!current.usd_revenue_amout.nil() && !isNaN(amt) && parseFloat(amt) >= parseFloat("250000")){
+		current.approver_id = "neil.sanderson@accenture.com";
+		current.approval_status = "Requested";
+		}
+	})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2023-10-17 17:58:31</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>12dc67f387b1391012aaca6e8bbb3535</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>Setup Approver Booking amount</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>sys_script_12dc67f387b1391012aaca6e8bbb3535</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-11-09 18:17:01</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=12dc67f387b1391012aaca6e8bbb3535"/>
+</record_update>

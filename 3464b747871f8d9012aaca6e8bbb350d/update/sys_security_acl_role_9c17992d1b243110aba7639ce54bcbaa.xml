@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+        <sys_created_on>2023-08-09 02:59:12</sys_created_on>
+        <sys_id>9c17992d1b243110aba7639ce54bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_amspe_au_finan_0_drdr_report.x_amspe_au_finan_0.drdr_report_user</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_security_acl display_value="x_amspe_au_finan_0_drdr_report">1417992d1b243110aba7639ce54bcba4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9c17992d1b243110aba7639ce54bcbaa</sys_update_name>
+        <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+        <sys_updated_on>2023-08-09 02:59:12</sys_updated_on>
+        <sys_user_role display_value="x_amspe_au_finan_0.drdr_report_user" name="x_amspe_au_finan_0.drdr_report_user">6b079de11b243110aba7639ce54bcb24</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

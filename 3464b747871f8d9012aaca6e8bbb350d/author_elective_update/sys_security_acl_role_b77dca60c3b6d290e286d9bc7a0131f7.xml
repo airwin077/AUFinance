@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-27 17:07:15</sys_created_on>
+        <sys_id>b77dca60c3b6d290e286d9bc7a0131f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_amspe_au_finan_0.approver</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_security_acl display_value="">79fc8aa0c3b6d290e286d9bc7a013126</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b77dca60c3b6d290e286d9bc7a0131f7</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-27 17:07:15</sys_updated_on>
+        <sys_user_role display_value="x_amspe_au_finan_0.approver" name="x_amspe_au_finan_0.approver">29aee8dc1b8c7510aba7639ce54bcb4d</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</application>
+        <file_path/>
+        <instance_id>d4f8d0ef9b9acb08bb2e6b8af359ff79</instance_id>
+        <instance_name>ecosystemsdev</instance_name>
+        <name>sys_security_acl_role_b77dca60c3b6d290e286d9bc7a0131f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>maria.florencia.belo@accenture.com</sys_created_by><sys_created_on>2024-12-27 17:07:15</sys_created_on><sys_id>b77dca60c3b6d290e286d9bc7a0131f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_amspe_au_finan_0.approver</sys_name><sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package><sys_policy/><sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope><sys_security_acl display_value="">79fc8aa0c3b6d290e286d9bc7a013126</sys_security_acl><sys_update_name>sys_security_acl_role_b77dca60c3b6d290e286d9bc7a0131f7</sys_update_name><sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by><sys_updated_on>2024-12-27 17:07:15</sys_updated_on><sys_user_role display_value="x_amspe_au_finan_0.approver" name="x_amspe_au_finan_0.approver">29aee8dc1b8c7510aba7639ce54bcb4d</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1332018704</payload_hash>
+        <record_name>.x_amspe_au_finan_0.approver</record_name>
+        <reverted_from/>
+        <source>a52a5363c351d650e286d9bc7a0131c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-27 17:07:15</sys_created_on>
+        <sys_id>d0ad4224c3b6d290e286d9bc7a01310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19409162bf10000001</sys_recorded_at>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-27 17:07:15</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>94ad42248ab6d290bdc0863849a01d0c</update_guid>
+        <update_guid_history>94ad42248ab6d290bdc0863849a01d0c:-1332018704</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2024-12-27 23:23:11">c128de68c3f6d290e286d9bc7a01311f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-27 17:53:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1e47e1b88a864f4a8a07e967b77a3d09</sys_id>
+        <sys_metadata>b77dca60c3b6d290e286d9bc7a0131f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_amspe_au_finan_0.approver</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_parent display_value="x_amspe_au_finan_0_aess">79fc8aa0c3b6d290e286d9bc7a013126</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_scope_delete display_value="">3416ead7f0ba491ea06a38b206ad8344</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_b77dca60c3b6d290e286d9bc7a0131f7</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_b77dca60c3b6d290e286d9bc7a0131f7">d0ad4224c3b6d290e286d9bc7a01310d</sys_update_version>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-27 17:53:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

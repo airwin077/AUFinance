@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="15b3d4981b887510aba7639ce54bcb02" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_amspe_au_finan_0_tetris" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-07-11 04:21:07</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>d9b39c901bc87510aba7639ce54bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_amspe_au_finan_0_tetris" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">15b3d4981b887510aba7639ce54bcb02</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">96021c5c1b887510aba7639ce54bcb49</sys_ui_section>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-07-11 04:21:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-07-11 04:26:50</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>490550d41bc87510aba7639ce54bcb78</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_amspe_au_finan_0_tetris" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">15b3d4981b887510aba7639ce54bcb02</sys_ui_form>
+            <sys_ui_section caption="Tetris Approver" display_value="Tetris Approver" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">f4055c941bc87510aba7639ce54bcb08</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 15:59:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2023-08-09 16:01:22</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>f11ac8358720711012aaca6e8bbb35a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_amspe_au_finan_0_tetris" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">15b3d4981b887510aba7639ce54bcb02</sys_ui_form>
+            <sys_ui_section caption="Tetris Finance" display_value="Tetris Finance" name="x_amspe_au_finan_0_tetris" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="8602105c1b887510aba7639ce54bcb06">651ac8358720711012aaca6e8bbb35a0</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-08-09 16:01:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_amspe_au_finan_0_tetris</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2023-07-11 04:21:07</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>15b3d4981b887510aba7639ce54bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_amspe_au_finan_0_tetris</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_15b3d4981b887510aba7639ce54bcb02</sys_update_name>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2023-07-11 04:21:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Tetris Reporting" name="tetris_reporting">8602105c1b887510aba7639ce54bcb06</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

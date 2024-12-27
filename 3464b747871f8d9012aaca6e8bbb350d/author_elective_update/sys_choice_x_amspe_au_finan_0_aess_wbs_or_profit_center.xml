@@ -20,40 +20,38 @@
             <element>wbs_or_profit_center</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Profit Center</label>
+            <label>WBS Number</label>
             <language>en</language>
             <name>x_amspe_au_finan_0_aess</name>
             <sequence/>
             <synonyms/>
-            <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-17 15:14:50</sys_created_on>
+            <sys_created_by>jesica.borda.olivera@accenture.com</sys_created_by>
+            <sys_created_on>2024-12-11 16:46:58</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>518dafc187e305543e7987fc8bbb359b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-17 15:14:50</sys_updated_on>
-            <value/>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-11 16:50:48</sys_updated_on>
+            <value>wbs_number</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>wbs_or_profit_center</element>
             <hint/>
             <inactive>false</inactive>
-            <label>WBS</label>
+            <label>Profit Center</label>
             <language>en</language>
             <name>x_amspe_au_finan_0_aess</name>
-            <sequence/>
+            <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>prriyam.chatterji@accenture.com</sys_created_by>
-            <sys_created_on>2022-05-17 15:14:19</sys_created_on>
+            <sys_created_on>2022-05-17 15:14:50</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>7e6d230587e305543e7987fc8bbb35a7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>prriyam.chatterji@accenture.com</sys_updated_by>
-            <sys_updated_on>2022-05-17 15:14:19</sys_updated_on>
-            <value/>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>jesica.borda.olivera@accenture.com</sys_updated_by>
+            <sys_updated_on>2024-12-11 16:51:31</sys_updated_on>
+            <value>profit_center</value>
         </sys_choice>
     </sys_choice>
 </record_update>

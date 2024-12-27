@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="EES Request Form">45ce6cf387281d9012aaca6e8bbb35a6</catalog_item>
+        <catalog_variable>IO:805de2cd873c15d012aaca6e8bbb35b3</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+        <sys_created_on>2024-12-13 18:59:55</sys_created_on>
+        <sys_id>03116a44c3e29614e286d9bc7a0131c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_case_summary</sys_name>
+        <sys_package display_value="AU Finance Forms" source="x_amspe_au_finan_0">3464b747871f8d9012aaca6e8bbb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AU Finance Forms">3464b747871f8d9012aaca6e8bbb350d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_03116a44c3e29614e286d9bc7a0131c2</sys_update_name>
+        <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+        <sys_updated_on>2024-12-13 18:59:55</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Mandatory Fields">fb90a680c3e29614e286d9bc7a0131e4</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>business_case_summary</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
